@@ -1,0 +1,8 @@
+# LegalZoom — Videography Services Agreement (template wording)
+
+Source: https://www.legalzoom.com/templates/t/videography-services-agreement
+Hiring Party ↔ Videographer (independent contractor) for event filming.
+
+Key clauses: 1 Engagement/Services (crew size, hours, own equipment, consult on shots) · 2 Compensation (deposit + balance before event; videographer pays own taxes; no benefits) · 3 Event (schedule confirmed 1 week prior; bound by venue rules; **limitation of liability for missed/uncaptured footage, weather, lighting, subject behavior**) · 4 Delivery schedule (initial + final cut) · 5 **Material Event Change** (date/time/location change may let videographer terminate or bill extra) · 6 Additional services · 8 **Videographer's Rights — videographer is sole owner of the Videos; Hiring Party gets only a nonexclusive, nontransferable license for personal use**; videographer has creative/edit discretion · 10 Term/Termination (forfeit deposit if cancel close to event) · 11 Indemnification · 12–23 boilerplate.
+
+**Verdict vs our draft:** Not part of the institution agreement. **Important if RFS contracts event filming separately:** the template's **default gives the videographer ownership** and the client only a personal-use license — RFS must instead negotiate **ownership or a broad commercial/promotional/sponsor license** of the footage, since our whole model depends on Organizer using event media in promo/sponsor/archival materials (draft §11). Also borrow the **"Material Event Change"** concept — consistent with our §21 (cancellation/relocation/format change) which already protects Organizer. No change to main agreement.
