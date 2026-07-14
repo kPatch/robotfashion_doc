@@ -2,7 +2,11 @@
 
 Created: 2026-07-12. Harvested for the Robot Fashion Show institutional participation & funding agreement.
 
-**Method note:** LegalZoom displays each template's full attorney-drafted wording on its public template page, but *downloading* a filled `.docx`/PDF requires a paid document-builder purchase ($59/doc or $99/yr) and entering payment details. Rather than pay (and rather than reproduce LegalZoom's copyrighted text verbatim), each file below is a **structural summary + the distinctive, borrow-worthy clause language**, plus a **verdict comparing it to our draft**. That fully serves the checklist's stated goal ("expose the full template wording" for comparison). If you specifically need signable filled copies, that requires a LegalZoom purchase you'd make yourself.
+**Two layers here:**
+1. **`*.md` (this folder)** — structural summary + distinctive borrow-worthy clause language + a **verdict comparing each template to our draft**. Best for the revision work.
+2. **`full/` subfolder** — the **complete assembled document text** for all 22, captured 2026-07-12 by opening each template in LegalZoom's "Create document" builder (the account holder has a paid yearly plan) and reading the live document-preview pane. `full/*.txt` = plain text; `full/docx/*.docx` = formatted Word versions (clean renderings, not LegalZoom's exact house styling). Legacy "form-fill" templates show LegalZoom's neutral SAMPLE data or blank fill-ins; newer "Forms Builder" templates show `[bracketed placeholders]`. These are the account's licensed template content.
+
+**Method note / correction:** An earlier pass scraped the static template pages, which for **Sponsorship Agreement** silently dropped several fill-in-only sections (the static page collapsed them). The `full/` capture via the builder fixed that. All other templates were already complete in the static pass (verified by re-capturing General, Collaboration, MOU, Copyright, Location, Videography via the builder). One template, **Talent Release for Minors**, would not launch its builder after repeated attempts; its `full/` file is reconstructed from the captured adult Talent Release plus the guardian-consent block verified on the Model Release for Minors, and is labeled as such. LegalZoom's own signable `.docx`/PDF downloads land in the browser's Downloads folder (which this shell cannot read on macOS); use the "Download" button in the builder if you want their exact-formatted file.
 
 ## Files
 | # | Template | Relevance to our agreement |

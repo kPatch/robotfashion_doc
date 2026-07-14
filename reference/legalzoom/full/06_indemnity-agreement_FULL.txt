@@ -1,0 +1,60 @@
+LEGALZOOM — INDEMNITY AGREEMENT (complete assembled template)
+Source: https://www.legalzoom.com/templates/t/indemnity-agreement  (Forms Builder)
+Captured 2026-07-12. [bracketed placeholders]. User's licensed LegalZoom content.
+================================================================
+
+Indemnity Agreement
+
+This Indemnity Agreement (hereinafter referred to as the "Agreement") is entered into effective on [Effective Date] (hereinafter referred to as the "Effective Date"),
+
+By and Between
+[Party A Name] (hereinafter referred to as the "Indemnifying Party"), a [Party A State] Corporation at [Party A_Registered Company Address] and;
+[Party B Name] (hereinafter referred to as the "Indemnified Party"), a [Party B State] Corporation at [Party B_Registered Company Address].
+
+The Indemnifying Party and the Indemnified Party shall be collectively referred to as the "Parties" and individually as the "Party."
+
+RECITALS.
+WHEREAS, to induce the Indemnifying Party to provide, or continue providing services to the Indemnified Party upon the following outlines [Description of Indemnity Service];
+AND WHEREAS, as a condition of the aforementioned, the indemnified party looks ahead to be indemnified and held harmless as per the terms set forth below.
+THEREFORE, in consideration of the foregoing and of the mutual covenants contained herein, the parties to this Agreement hereby agree as follows:
+
+TERMS AND CONDITIONS.
+
+1. GENERAL.
+(a) The Indemnifying Party shall indemnify and hold the Indemnified Party harmless from and against any and all claims, liabilities, loss, expenses, suits, damages, judgments, demands, and costs (including reasonable attorney and other legal fees and expenses) arising out of acts of the Indemnifying Party and [Third Party's Name] in connection with [Indemnity arising in connection with], or including but not limited to any loss or damage of property or the extent of any accident, injury, or death of persons, due to [Reasons for loss or damage] apart from the extent that such damages are solely directed to the negligence of the Indemnified Parties.
+(b) All defense and settlement or proceedings arising out of the foregoing shall be borne by the Indemnifying Party at its sole expense only, regardless of whether the Indemnifying Party is successful in such actions.
+(c) Under this Agreement, the obligations of the Indemnifying Party shall last perpetually until the Agreement is terminated.
+
+2. PERIOD OF LIMITATION.
+After the expiration of [Period of Limitation for Indemnity] from the Effective Date of this Agreement, no legal action or cause of action by the Indemnifying Party or in their right shall be asserted to the Indemnified Party, their spouse, heir, executors, personal or legal representatives. Any claim or cause of action of the Party shall be extinguished or deemed released unless asserted by the timely filing of legal action within such [Period of Limitation for Indemnity].
+
+3. ARBITRATION.
+In the event of any dispute arising in and out of this Agreement between the Parties, it shall be resolved by arbitration. There shall be [Number of Arbitrators] arbitrator(s), who shall be appointed by [Arbitration Appointing Party Name]. The venue of arbitration shall be [Location of Arbitration], and the Seat shall be [State of Seat]. The arbitrators' decision shall be final and will be binding on both Parties.
+
+4. SUBROGATION.
+In the event of payment under this Agreement, the Indemnifying Party shall be subrogated to the extent of such payment to all of the rights of recovery of the Indemnified Party, who shall execute all documents required and shall perform all acts that may be vital for securing such rights, and for enabling the Indemnified Party effectively to litigate to enforce such rights.
+
+5. TERMINATION.
+This Agreement shall only be liable to be terminated with the written consent of both Parties due to a breach regarding terms stated hereof or personal revenge.
+
+6. NON-OPERANCE.
+If either Party fails or delays beyond deadlines to exercise any right, power, or privilege as mentioned, or while insisting upon observance or performance by the other of the provisions of this Agreement, it shall not operate or be construed as a waiver thereof.
+
+7. AMENDMENTS.
+Due to the uncertain application of any statutes of limitations that may govern any claim, the Agreement shall be considered continual. Modification or amendment of this Agreement shall only be done with prior written consent from both the Parties.
+
+8. COUNTERPARTS.
+This Agreement may be executed singly or in multiple counterparts, each of which shall constitute an original of this Agreement.
+
+9. NOTICES.
+Any notices required or permitted by this Agreement shall be in writing and delivered by certified mail or courier to the mentioned address.
+
+10. ENTIRE AGREEMENT.
+This Agreement shall supersede any and all other agreements, verbal or in writing, between the Parties hereto with respect to the subject matter hereof and contains all of the covenants and agreements between the Parties with respect to the said matter.
+
+11. GOVERNING LAW AND JURISDICTION.
+This Agreement shall be governed following the laws of the [Governing Law]. If the disputes under this Agreement cannot be resolved by arbitration, they shall be resolved by litigation in the courts of the [Jurisdiction], including the federal courts therein, and the Parties all consent to the jurisdiction of such courts, agree to accept service of process by mail and hereby waive any jurisdictional or venue defenses otherwise available to it.
+
+ACCEPTANCE AND SIGNATURE.
+[Party A Name] — Name: ______  Signature: ______  Date: ______
+[Party B Name] — Name: ______  Signature: ______  Date: ______

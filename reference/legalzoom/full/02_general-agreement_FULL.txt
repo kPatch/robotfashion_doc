@@ -1,0 +1,73 @@
+LEGALZOOM — GENERAL AGREEMENT (complete assembled template)
+Source: https://www.legalzoom.com/templates/t/general-agreement
+Captured 2026-07-12 from the "Create document" builder preview. Obligations sections are user-defined (left blank in the sample). User's licensed LegalZoom content.
+================================================================
+
+General Agreement
+
+This agreement is between ______ and ______.
+
+The parties agree as follows:
+
+1. OBLIGATIONS.
+______ shall ______.
+
+2. OBLIGATIONS.
+______ shall ______.
+
+3. FORCE MAJEURE.
+A party will not be in breach of or in default under this agreement on account of, and will not be liable to the other party for, any delay or failure to perform its obligations under this agreement by reason of fire, earthquake, flood, explosion, strike, riot, war, terrorism, or similar event beyond that party's reasonable control (each a "Force Majeure Event"). However, if a Force Majeure Event occurs, the affected party shall, as soon as practicable:
+(a) notify the other party of the Force Majeure Event and its impact on performance under this agreement; and
+(b) use reasonable efforts to resolve any issues resulting from the Force Majeure Event and perform its obligations under this agreement.
+
+4. GOVERNING LAW.
+(a) Choice of Law. The laws of the state of ______ govern this agreement (without giving effect to its conflicts of law principles).
+(b) Choice of Forum. Both parties consent to the personal jurisdiction of the state and federal courts in ______ County, ______.
+
+5. AMENDMENTS.
+No amendment to this agreement will be effective unless it is in writing and signed by a party or its authorized representative.
+
+6. ASSIGNMENT AND DELEGATION.
+(a) No Assignment. Neither party may assign any of its rights under this agreement, except with the prior written consent of the other party. All voluntary assignments of rights are limited by this subsection.
+(b) No Delegation. Neither party may delegate any performance under this agreement, except with the prior written consent of the other party.
+(c) Enforceability of an Assignment or Delegation. If a purported assignment or purported delegation is made in violation of this section, it is void.
+
+7. COUNTERPARTS; ELECTRONIC SIGNATURES.
+(a) Counterparts. The parties may execute this agreement in any number of counterparts, each of which is an original but all of which constitute one and the same instrument.
+(b) Electronic Signatures. This agreement, agreements ancillary to this agreement, and related documents entered into in connection with this agreement are signed when a party's signature is delivered by facsimile, email, or other electronic medium. These signatures must be treated in all respects as having the same force and effect as original signatures.
+
+8. SEVERABILITY.
+If any one or more of the provisions contained in this agreement is, for any reason, held to be invalid, illegal, or unenforceable in any respect, that invalidity, illegality, or unenforceability will not affect any other provisions of this agreement, but this agreement will be construed as if those invalid, illegal, or unenforceable provisions had never been contained in it, unless the deletion of those provisions would result in such a material change so as to cause completion of the transactions contemplated by this agreement to be unreasonable.
+
+9. NOTICES.
+(a) Writing; Permitted Delivery Methods. Each party giving or making any notice, request, demand, or other communication required or permitted by this agreement shall give that notice in writing and use one of the following types of delivery, each of which is a writing for purposes of this agreement: personal delivery, mail (registered or certified mail, postage prepaid, return-receipt requested), nationally recognized overnight courier (fees prepaid), facsimile, or email.
+(b) Addresses. A party shall address notices under this section to a party at the following addresses:
+If to ______: ______,
+If to ______: ______,
+(c) Effectiveness. A notice is effective only if the party giving notice complies with subsections (a) and (b) and if the recipient receives the notice.
+
+10. WAIVER.
+No waiver of a breach, failure of any condition, or any right or remedy contained in or granted by the provisions of this agreement will be effective unless it is in writing and signed by the party waiving the breach, failure, right, or remedy. No waiver of any breach, failure, right, or remedy will be deemed a waiver of any other breach, failure, right, or remedy, whether or not similar, and no waiver will constitute a continuing waiver, unless the writing so specifies.
+
+11. ENTIRE AGREEMENT.
+This agreement constitutes the final agreement of the parties. It is the complete and exclusive expression of the parties' agreement with respect to the subject matter of this agreement. All prior and contemporaneous communications, negotiations, and agreements between the parties relating to the subject matter of this agreement are expressly merged into and superseded by this agreement. The provisions of this agreement may not be explained, supplemented, or qualified by evidence of trade usage or a prior course of dealings. Neither party was induced to enter this agreement by, and neither party is relying on, any statement, representation, warranty, or agreement of the other party except those set forth expressly in this agreement. Except as set forth expressly in this agreement, there are no conditions precedent to this agreement's effectiveness.
+
+12. HEADINGS.
+The descriptive headings of the sections and subsections of this agreement are for convenience only, and do not affect this agreement's construction or interpretation.
+
+13. EFFECTIVENESS.
+This agreement will become effective when all parties have signed it. The date this agreement is signed by the last party to sign it (as indicated by the date associated with that party's signature) will be deemed the date of this agreement.
+
+14. NECESSARY ACTS; FURTHER ASSURANCES.
+Each party shall use all reasonable efforts to take, or cause to be taken, all actions necessary or desirable to consummate and make effective the transactions this agreement contemplates or to evidence or carry out the intent and purposes of this agreement.
+
+[SIGNATURE PAGE FOLLOWS]
+Each party is signing this agreement on the date stated opposite that party's signature.
+
+Date: ______________________________
+By: ____________________________________________________________
+Name:
+
+Date: ______________________________
+By: ____________________________________________________________
+Name:

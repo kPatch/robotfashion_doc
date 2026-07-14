@@ -1,0 +1,77 @@
+LEGALZOOM — VENDOR AGREEMENT (complete assembled template)
+Source: https://www.legalzoom.com/templates/t/vendor-agreement  (Forms Builder)
+Captured 2026-07-12. [bracketed placeholders]. User's licensed LegalZoom content.
+================================================================
+
+Vendor Agreement
+
+This Vendor Agreement (hereinafter referred to as "Agreement") is made and entered as on the effective date [Effective Date],
+
+By and Between
+[Company Name] (hereinafter referred to as "Company"), a Company, having its registered office at [Company Address] and;
+[Vendor Company] (hereinafter referred to as "Vendor"), a company having its registered office at [Vendor Company Address].
+
+The Company and the Vendor shall hereinafter be individually referred to as "Party," and collectively as "Parties."
+
+WHEREAS: (a) The Company is engaged in the business of [Business of the Company]. (b) The Vendor is engaged in the business of [Business of the Vendor]. (c) The Company desires to engage the Vendor for certain Services, and the Vendor has agreed to provide such Services. (d) The Parties wish to set forth the understanding regarding the above business relationship.
+NOW THEREFORE, in consideration of the foregoing and the mutual promises set forth herein, the Company and the Vendor agree as follows:
+
+TERMS AND CONDITIONS.
+
+1. SERVICES.
+(a) The Company engages the Vendor for the Services specifically described in the Statement of Work ("SOWs") executed by the Parties from time to time. This Agreement and each SOW apply to the Vendor's provision of Services. Each SOW is deemed part of this Agreement.
+(b) The Services shall be detailed in an SOW and include deliverables, timelines, consideration, other costs, cancellation terms, and all other terms. No SOW change is effective unless a change order is executed by both Parties. In any conflict between this Agreement and an SOW, this Agreement prevails unless expressly stated for that SOW, to the extent of the conflict.
+
+2. FEES.
+In consideration of the Services, the Company shall pay the Fees as captured in the respective SOW. The Vendor shall raise monthly invoices, paid by the Company within [Payment Period in Days] day(s) of receipt. The Fees are inclusive of all applicable sales and other taxes.
+
+3. REPRESENTATIONS AND WARRANTIES.
+The Vendor warrants that: (a) it shall use best efforts to provide Services in a professional and workmanlike manner; (b) it shall perform in accordance with applicable laws; (c) the Services shall not infringe any third-party rights, including IP rights.
+
+4. INTELLECTUAL PROPERTY RIGHTS.
+(a) Except as set forth herein, each Party remains owner of IP it owns/controls as of the Effective Date. However, the Vendor agrees that all IP rights over designs, drawings, notes, marketing, and other information created during and within the scope of this Agreement as part of the Services constitute work made for hire and are the exclusive property of the Company ("Company IP Property").
+(b) The Vendor shall not claim any right over the Company IP Property and shall perform all actions, execute all deeds, and sign all documents (without charge, at the Company's expense) to fully transfer such rights to the Company.
+
+5. CONFIDENTIALITY.
+(a) The Vendor shall maintain absolute confidentiality of the Agreement's terms and any information revealed to it, disclosing to third parties only on a need-to-know basis after prior written consent; exceptions for information already public or required to be disclosed by law (with reasonable notice).
+(b) The Vendor acknowledges that breach is likely to cause irreparable harm, and the Company shall be entitled to seek equitable relief, including preliminary and permanent injunctive relief, as well as money damages.
+
+6. INDEMNIFICATION.
+The Vendor will defend, indemnify, and hold harmless the Company from and against all claims, liabilities, losses, damages, costs, and expenses, including reasonable attorneys' fees, caused by or arising from: (a) a negligent act or omission by the Vendor; (b) failure of the Vendor to perform its obligations or breach of any terms; (c) a third-party infringement claim related to the Services.
+
+7. LIMITATION OF LIABILITY.
+(a) In no event shall either Party be liable for special, incidental, indirect, or consequential damages (including lost profits, business interruption, loss of business information, or other pecuniary loss).
+(b) Except for the indemnification obligations in clause 6, either Party's aggregate liability (and that of its affiliates, officers, employees, agents, suppliers, and licensors) is limited to the Fees paid by the Company immediately prior to the first event giving rise to liability.
+
+8. TERM AND TERMINATION.
+(a) The Agreement remains in force until terminated per this clause or until termination/expiry of all SOWs, whichever is earlier.
+(b) Terminable only: (i) by the Company for no cause, at any time, on [Termination Notice Period in Days] business day(s) prior written notice; (ii) by both Parties on mutual written consent.
+(c) SOW termination follows the SOW's terms; termination of an SOW does not terminate this Agreement, but termination of this Agreement terminates all SOWs.
+
+9. GOVERNING LAW AND JURISDICTION.
+Governed by the laws of [Governing Law]. The courts at [Jurisdiction] shall have exclusive jurisdiction.
+
+10. ASSIGNMENT.
+Not assignable by either Party without the other's prior written consent. Binds and inures to successors and permitted assigns.
+
+11. NOTICES.
+In writing, delivered personally or by certified mail (RRR) to the addresses above. Personal delivery deemed delivered on actual delivery; certified mail on the date the return receipt is signed.
+
+12. RELATIONSHIP OF PARTIES.
+Independent contractors; nothing constitutes any other relationship.
+
+13. FORCE MAJEURE.
+Neither Party liable for failure/delay caused by forces beyond its control (strikes, acts of governments, accidents, acts of war or terrorism, pandemics, civil/military disturbances, nuclear or natural catastrophes, acts of God); the claiming Party shall use reasonable efforts to resume performance.
+
+14. AMENDMENTS AND MODIFICATIONS.
+Only by a written instrument specifically designated as an amendment, signed by each Party.
+
+15. ENTIRE AGREEMENT.
+Complete and exclusive statement of the Agreement; supersedes prior agreements.
+
+16. SURVIVAL.
+Obligations/rights intended to continue after termination or expiration shall survive.
+
+ACCEPTANCE AND SIGNATURE.
+[Company Name] — Name: ______  Signature: ______  Date: ______
+[Vendor Company] — Name: ______  Signature: ______  Date: ______
