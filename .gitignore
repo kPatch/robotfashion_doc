@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+
+# Microsoft Office temporary and lock files
+~$*
+
+# LibreOffice lock files
+.~lock.*#
+
+# Editor backup files
+*~
+*.tmp
+*.swp
+*.swo
