@@ -1,7 +1,7 @@
 Version: v2
 Document: Institutional Media and Content Agreement
 Date: 2026-11-18
-Time: 10:32:06 EST (America/New_York)
+Time: 12:06:16 EST (America/New_York)
 Baseline: v1 draft. Redline compares the current v2 against v1.
 
 Changes:
@@ -37,3 +37,25 @@ Latest credit-coordination update within v2:
 - Retains the remaining respectful-use and publicity wording. No other agreement text changed. Documents 2 and 3 unchanged in this update.
 - Modestly reduces paragraph spacing on clean page 2 to keep the signature block on that page; Times New Roman typography and margins preserved. Clean: two pages. Redline: three pages.
 - Redline remains cumulative v2 against v1; the removed placeholder appears only as deleted text. Native tracked-change acceptance/rejection checks passed; all final rendered pages reviewed.
+
+Latest Project Privacy Notice update within v2:
+- Replaces the section 7 privacy-notice paragraph with the agreed concise wording. Removes the URL/attachment placeholder; Organizer supplies the Project Privacy Notice and Institution distributes it to affected team members before collecting permissions or supplying personal information.
+- Preserves the following consent-withdrawal and statutory-rights paragraph, all other agreement wording, current version and typography.
+- Project Privacy Notice is a separate unsigned information sheet in project-privacy-notice/v1. Its draft has one pending processing-location/transfer field; it is not ready for distribution until finalized.
+- Clean: two pages. Redline: three pages, cumulative against v1. Native revision acceptance/rejection checks passed; changed pages reviewed and remaining pages byte-identical to previously reviewed renders. Documents 2 and 3 and all earlier baselines unchanged.
+
+Website-reference update within v2 (supersedes earlier privacy-notice status):
+- Section 7 links to https://www.robotfashion.com/project-privacy and retains Institution's duty to provide the notice before collecting permissions or supplying information. No other agreement text changed.
+- Clean Word/PDF: two pages. Cumulative redline against v1: three pages. Native revisions accept to clean and reject to v1; all clean and review pages visually checked.
+- Supporting notice v1 prepared for website publication with dated Word/PDF files and a concise update clause. Draft labels removed from the notice only.
+
+Publication verified November 18, 2026: https://www.robotfashion.com/project-privacy is live with its matching one-page PDF. Document 1 v2 Word/PDF content and hashes remain unchanged from the website-reference update.
+
+Naming update — 2026-11-18 11:56:05 EST:
+- Renamed Project Privacy Notice to Privacy Notice. Existing public page and PDF URLs, version numbers, and substantive wording are unchanged.
+- Word/PDF exports visually checked; current version retained.
+
+URL update — 2026-11-18 12:06:16 EST:
+- Updated the Privacy Notice URL to https://www.robotfashion.com/privacy-notice. The old /project-privacy URL permanently redirects to the new page. Version numbers and substantive terms unchanged.
+- Clean and cumulative v2-versus-v1 redline Word/PDF copies regenerated and visually checked. Accept/reject verification passed.
+- Live publication verified 2026-11-18 12:07:14 EST: /privacy-notice returns 200; /project-privacy permanently redirects (308); the existing notice PDF remains available.

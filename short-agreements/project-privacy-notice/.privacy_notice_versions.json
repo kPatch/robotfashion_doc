@@ -1,0 +1,40 @@
+{
+  "current_version": "v1",
+  "versions": [
+    {
+      "version": "v1",
+      "title": "Privacy Notice",
+      "timestamp": "2026-11-18T12:06:16.811718-05:00",
+      "status": "Published; new URL, permanent redirect, and matching PDF verified.",
+      "word_count": 456,
+      "remaining_placeholders": [],
+      "verification": {
+        "pdf_pages": 1,
+        "all_pages_visually_reviewed": true,
+        "no_signature_required": true,
+        "reference_typography_and_margins_preserved": true,
+        "no_placeholders": true,
+        "website_and_download_text_match": true,
+        "public_pdf_matches_local": true
+      },
+      "deliverables": {
+        "v1/Privacy_Notice.docx": {
+          "sha256": "6252c9bedbdd3df65a4ee7801725e6a3a9292abafdd8cc0700675cac4fe92c88",
+          "bytes": 28399
+        },
+        "v1/Privacy_Notice.pdf": {
+          "sha256": "1979f9838f6f9cc980dafb01450ef3168c94777f8b2d2f9bdaf5d33c86375955",
+          "bytes": 49379
+        }
+      },
+      "latest_revision": "Updated the Privacy Notice URL to https://www.robotfashion.com/privacy-notice. The old /project-privacy URL permanently redirects to the new page. Version numbers and substantive terms unchanged. Notice Word/PDF content and files unchanged.",
+      "public_url": "https://www.robotfashion.com/privacy-notice",
+      "deployment": {
+        "commit": "9470d399d9630098767ace78b1760499e4b55563",
+        "status": "ready",
+        "url": "https://vercel.com/opendive/robot-fashion-web/CSk7hGHxetvk4dW4psyKR4i5zxDs"
+      },
+      "publication_verified_at": "2026-11-18T12:07:14.488732-05:00"
+    }
+  ]
+}

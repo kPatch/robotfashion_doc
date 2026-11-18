@@ -8,14 +8,13 @@
       "reject_restores_baseline_text": true,
       "accepted_tracked_text_matches_clean": true,
       "changed_paragraphs": 20,
-      "word_count_clean": 917,
+      "word_count_clean": 907,
       "remaining_placeholders": [
         "[EMAIL]",
         "[LEGAL NAME AND COUNTRY]",
-        "[NAME]",
-        "[PRIVACY NOTICE URL OR ATTACHED NOTICE]"
+        "[NAME]"
       ],
-      "timestamp": "2026-11-18T10:32:06.719751-05:00",
+      "timestamp": "2026-11-18T12:06:16.811718-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -28,34 +27,36 @@
         "no_consent_checkboxes": true,
         "signature_review_layout": "The redline uses two cells for the signature-name row to keep old and new wording within their respective columns; body-text comparisons normalize that row to a tab.",
         "materials_placeholder_removed": true,
-        "latest_text_changes_only": "Section 5 credit-coordination wording; other agreement text unchanged.",
+        "latest_text_changes_only": "Only section 7 paragraph 21 changed: notice URL updated to /privacy-notice.",
         "latest_changed_body_paragraphs_zero_based": [
-          16
+          21
         ],
         "institutional_signer_and_mentor_contact_separated": true,
         "authorized_institutional_representative_signature": true,
-        "credit_placeholder_removed": true
+        "credit_placeholder_removed": true,
+        "privacy_notice_placeholder_removed": true,
+        "public_notice_url": "https://www.robotfashion.com/privacy-notice"
       },
       "deliverables": {
         "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.docx": {
-          "sha256": "b3b21b90944b224b46cce5f767f20ab73608cf03dfbf26ea410a4e15a02e9be1",
-          "bytes": 30298
+          "sha256": "c53a88e97bb2e600c15b247192be0936d3361f4aa8720eab176d3ac484e159a9",
+          "bytes": 30240
         },
         "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.pdf": {
-          "sha256": "d63521db25476af86e0e4f103077ca124ff89938a92bc1b7787a11e75da65191",
-          "bytes": 63366
+          "sha256": "986bf818524c339886c3bb91d485b794cc2efe3d1379b797f1b94e90933a9e04",
+          "bytes": 63005
         },
         "v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx": {
-          "sha256": "ea5c16fd91eff52b4b342fce2063c7d1ef743d22229ff4e37bc3420d09bb89a3",
-          "bytes": 32901
+          "sha256": "9ddd2e153a7419e24b99767ce056d435b5f032a35bf3714b828a09f17fad0672",
+          "bytes": 32871
         },
         "v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf": {
-          "sha256": "e15a373e47870cb1a682afecfe8f48337baa90aa8c386e8bc4f8e19197312864",
-          "bytes": 113317
+          "sha256": "646c9d9f112aa4a4940282fde8989b47c3f6955ca6668c7a780ae6f64eacf87e",
+          "bytes": 112982
         }
       },
       "title": "Institutional Media and Content Agreement",
-      "latest_revision": "Section 5 replaces the credit-details placeholder with mentor-coordinated credit information by email, updates without amendment, reasonable credit efforts suited to format and space, and corrections to controlled materials where practicable and future publications."
+      "latest_revision": "Updated the Privacy Notice URL to https://www.robotfashion.com/privacy-notice. The old /project-privacy URL permanently redirects to the new page. Version numbers and substantive terms unchanged."
     }
   ],
   "directory_layout": "Paths are relative to 01-media-and-content; v1 remains unchanged."

@@ -1,0 +1,56 @@
+Version: v1
+Document: Privacy Notice
+Date: 2026-11-18
+Time: 12:06:16 EST (America/New_York)
+Status: Published; public webpage and matching PDF verified.
+
+Current wording and format:
+- One-page unsigned information sheet covering media use and participation administration, using the agreements' Times New Roman typography and original margins.
+- Google Workspace, including Google Drive, is identified for Project file/media storage. Banks and payment providers remain generic; no particular school-payment provider is inferred from Stripe Atlas.
+- The international-processing placeholder is replaced with the agreed explanation that information may be processed in countries where Google or its service providers operate, and an email contact for processing-location and transfer-safeguard information.
+- All other notice wording, the v1 designation and draft labeling are unchanged. All three agreements remain unchanged.
+
+Confirmed facts and drafting basis:
+- All team members are adults. No passport or health information is requested. Institutional wire-transfer details are collected for school payments.
+- Sponsors receive only approved publicity materials, not private participant contacts or banking information.
+- Raw and edited media are retained for ongoing authorized Project uses without a fixed expiry date, subject to applicable law, consent withdrawal and periodic review of continued need. Other records use the purpose-based retention criteria stated in the draft.
+- The purpose-specific legal bases in the notice are proposed drafting; the notice is not a legal determination that every listed law applies. It does not grant media permissions or create a transfer mechanism.
+
+Two focused internal verification questions:
+1. Does Robot Fashion's Google Workspace agreement incorporate Google's Cloud Data Processing Addendum, or has it been accepted separately? Review the existing account/contract record; if already incorporated, no additional acceptance is needed solely for this reason. This establishes which actual provider terms can be described, rather than assuming safeguards from the product name.
+2. Does an institution's actual disclosure of participant personal information to Robot Fashion fall under a law requiring an international-transfer arrangement, and if so, what arrangement covers that disclosure? Assess the relevant jurisdiction, source and recipient. For example, an EU institution's disclosure to the US LLC is separate from Robot Fashion's use of Google. Resolve only where relevant; do not assume that every international participant triggers the same requirement.
+
+Why these remain in notes:
+These questions prevent unsupported statements that particular contracts or transfer safeguards are in place. They replace the earlier broad checklist. They are not new participant-facing conditions and do not require listing every campus, bank or data center in the notice. Removing the placeholder does not establish compliance; if applicable law requires specific transfer disclosures, add the verified information before relying on the notice for that purpose. Keep this internal record separate from the participant information sheet.
+
+Sources for those two checks:
+https://knowledge.workspace.google.com/admin/compliance/privacy-compliance-and-records-for-google-workspace-and-cloud-identity
+https://www.edpb.europa.eu/documents/guideline/guidelines-052021-on-the-interplay-between-the-application-of-article-3-and-the_en
+
+History within v1:
+- Initial draft covered the shared Project purposes and included a processing/transfer placeholder.
+- Subsequent clarification identified Google Workspace and generic banks/payment providers.
+- Current update removes the placeholder and keeps the two focused checks in these drafting notes, at the user's request. No new version number.
+
+Verification: only section 3's final sentences changed; other DOCX package parts preserved. No bracketed placeholders, signature fields or consent checkboxes. The one-page Word/PDF rendering was visually reviewed; deliverable hashes are recorded in the adjacent version metadata.
+
+Publication preparation within v1:
+- Publication requested by the user on November 18, 2026. Public URL: https://www.robotfashion.com/project-privacy.
+- Notice remains one page, in the existing typography. Shortens introductory, information, sharing and retention wording; retains the agreed practices and rights. Adds significant-change notification and legally required consent, without expanding media permissions.
+- Effective/last-updated date replaces draft header. Word and PDF filenames no longer include DRAFT.
+- Website text and PDF are identical in substance. The website links to a downloadable PDF. Existing internal verification questions remain internal and have not been represented as resolved.
+- Documents 2 and 3 unchanged.
+
+Deployment attempt: website commit 92f31d1 pushed to main. Vercel deployment 4HKXsm4avVmG2Mt5y93FQnJVRDmj failed. Local production build, generated-manifest type check and four route-access checks passed. Publication is pending access to the authenticated deployment log. Do not treat the notice URL as live until verified.
+
+Publication verified: 2026-11-18 11:52:14 EST. Set the missing Vercel Production NEXT_PUBLIC_SITE_URL to https://www.robotfashion.com and redeployed the same commit. Deployment 3fQceHKUvjn9VrMfHTK9fTweEm1M is Ready. Public webpage and PDF return HTTP 200; public PDF hash matches the local v1 PDF. The rest of the site remains behind its prelaunch gate. This supersedes the failed-attempt status above.
+
+Naming update — 2026-11-18 11:56:05 EST:
+- Renamed Project Privacy Notice to Privacy Notice. Existing public page and PDF URLs, version numbers, and substantive wording are unchanged.
+- Word/PDF exports visually checked; current version retained.
+- Published and verified 2026-11-18 11:57:05 EST: public page title is Privacy Notice; public PDF exactly matches the local v1 PDF. Existing URLs retained. Deployment 0f962f2e2473d5742cc7b3b2e715ca54236e8cf3.
+
+URL update — 2026-11-18 12:06:16 EST:
+- Updated the Privacy Notice URL to https://www.robotfashion.com/privacy-notice. The old /project-privacy URL permanently redirects to the new page. Version numbers and substantive terms unchanged.
+- Notice content and its Word/PDF files are unchanged; only its publication address changed.
+- Live publication verified 2026-11-18 12:07:14 EST: /privacy-notice returns 200; /project-privacy permanently redirects (308); the existing notice PDF remains available.

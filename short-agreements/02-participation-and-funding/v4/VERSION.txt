@@ -1,14 +1,14 @@
 Version: v4
 Document: Institutional Participation and Funding Agreement
 Date: 2026-11-18
-Time: 10:14:31 EST (America/New_York)
+Time: 12:37:45 EST (America/New_York)
 Baseline: v3 clean version; redline shows all cumulative v4 changes against v3.
 
 Changes:
 - Retains fixed travel support after attendance: $5,000 per international institution or $2,500 per US-based institution, regardless of actual costs or number of travelers. No receipts or itemized expense statement required.
 - Defines attendance as at least one designated institutional team representative participating in person. A late payment request does not forfeit earned support.
 - Clarifies that participation funds are an advance earned by completion and delivery, subject to cancellation and reconciliation provisions. Uses a consistent reconciliation standard.
-- Incorporates the agreed design summary and preserves ownership with existing owners.
+- Confirms garment scope by email without a separate design-summary reference; preserves ownership with existing owners.
 - Establishes a minimum loan period ending six months after the later of delivery and the scheduled Event date. The loan then continues until return on 30 days' written notice; a longer guaranteed period requires written agreement. This implements the user's express selection.
 - Defines Organizer's reasonable-care period from acceptance by Organizer or its designated receiving staff, including at the Kent State delivery address, through arranged storage and handling until properly packed return-carrier handover.
 - Clarifies packing responsibilities, carrier-loss treatment and cooperation with carrier claims.
@@ -47,3 +47,8 @@ Latest signing-role update (current wording supersedes earlier signing descripti
 - Institutional signer wording, mentor coordination-contact fields and signature blocks. Section 6 aligned with media and safety agreements; formal-notice recipients distinguished from mentor contact. Other substantive agreement terms remain unchanged in this update.
 - All three current versions updated together: media v2, participation v4 and institutional safety v2. No new version numbers.
 - Clean and redlined Word/PDF copies regenerated. Existing redline baselines retained. Native tracked-change acceptance/rejection checks passed; every final rendered page was visually reviewed.
+
+Design-clause simplification — 2026-11-18 12:37:45 EST:
+- Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement.
+- Kept v4. Clean Word/PDF and cumulative v4-against-v3 redlines updated. Only the first paragraph of section 4 changed; all other agreement text and payment table remain unchanged.
+- Clean copy remains four pages; redline remains five pages. Text and visual checks passed.

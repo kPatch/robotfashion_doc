@@ -101,13 +101,12 @@
       "changes": 29,
       "remaining_placeholders": [
         "[ADDRESS]",
-        "[EMAIL DATE OR ATTACHMENT]",
         "[INTERNATIONAL / US-BASED]",
         "[LEGAL NAME AND COUNTRY]",
         "[NAME AND EMAIL]",
         "[VENUE]"
       ],
-      "timestamp": "2026-11-18T10:14:31.142753-05:00",
+      "timestamp": "2026-11-18T12:37:45.692672-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -124,40 +123,37 @@
         "unique_revision_ids": true,
         "active_attendance_checkbox_count": 2,
         "no_undecided_attendance_option": true,
-        "latest_agreement_text_changes_only": "Institutional signer wording, mentor coordination-contact fields and signature blocks. Section 6 aligned with media and safety agreements; formal-notice recipients distinguished from mentor contact.",
+        "latest_agreement_text_changes_only": "Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement.",
         "safety_reference_v2": true,
         "latest_changed_body_paragraphs_zero_based": [
-          3,
-          29,
-          46,
-          47,
-          48
+          19
         ],
         "institutional_signer_and_mentor_contact_separated": true,
         "authorized_institutional_representative_signature": true,
-        "latest_text_changes_only": "Institutional signer wording, mentor coordination-contact fields and signature blocks. Section 6 aligned with media and safety agreements; formal-notice recipients distinguished from mentor contact."
+        "latest_text_changes_only": "Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement.",
+        "design_summary_placeholder_removed": true
       },
       "deliverables": {
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
-          "sha256": "98dff3f2160c9b742657319d2aba16a2a0f037602ce68d30c4d42e0cf83cfc0c",
-          "bytes": 34089
+          "sha256": "4f13a66cb0698d21a51251e51100961919458dd25d068ec15b91243f795bd76d",
+          "bytes": 34022
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
-          "sha256": "3d9a214ca2f765b33ec1a917db142b505875ac1abc35129aee64012a912864fd",
-          "bytes": 87820
+          "sha256": "26ab805bd4a9465d84f5dbceb3096960beadfdf405e3b7ada34e9878cc09012e",
+          "bytes": 87399
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
-          "sha256": "b7c1b5f902503b86bdda1be41dab92d8b0b41ecc21ec3b54051bd20369f55b48",
-          "bytes": 37298
+          "sha256": "31cb5baded71f058662e45ae3ab8ee2f82518782635c43397dda3146c0e799a4",
+          "bytes": 37317
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
-          "sha256": "14513419268883ee1d5931cab4a6b4b4a1befd18579e82c4ba6ed0996e1ebf48",
-          "bytes": 153902
+          "sha256": "8a0dcd342311f9369cd974e472c7574b528b00b623924efb1b6ba47d6d533ab0",
+          "bytes": 153988
         }
       },
-      "word_count_clean": 2234,
+      "word_count_clean": 2208,
       "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement.",
-      "latest_revision": "Authorized institutional representative signs for Institution and confirms authority, solely in that capacity and without a personal guarantee. Mentor remains the coordination contact and need not be the signer."
+      "latest_revision": "Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement."
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."
