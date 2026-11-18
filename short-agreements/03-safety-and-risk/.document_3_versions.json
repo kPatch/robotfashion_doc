@@ -7,20 +7,17 @@
       "reject_restores_baseline_text": true,
       "accepted_tracked_text_matches_clean": true,
       "changed_paragraphs": 15,
-      "word_count_clean": 446,
-      "remaining_placeholders": [
-        "[LEGAL NAME AND COUNTRY]",
-        "[NAME AND EMAIL]"
-      ],
+      "word_count_clean": 481,
+      "remaining_placeholders": [],
       "baseline": "v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx",
-      "timestamp": "2026-11-18T10:14:31.142753-05:00",
+      "timestamp": "2026-11-18T13:06:19.529564-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
         "reject_restores_baseline_text": true,
         "unique_revision_ids": true,
         "all_pages_visually_reviewed": true,
-        "clean_pdf_pages": 1,
+        "clean_pdf_pages": 2,
         "redline_pdf_pages": 2,
         "native_redline_pdf_pages": 2,
         "no_checkboxes": true,
@@ -28,36 +25,50 @@
         "one_institutional_signature": true,
         "no_individual_release": true,
         "latest_changed_body_paragraphs_zero_based": [
-          2,
           3,
-          13,
           14,
-          15
+          16
         ],
         "institutional_signer_and_mentor_contact_separated": true,
         "authorized_institutional_representative_signature": true,
-        "latest_text_changes_only": "Institutional signer wording, mentor coordination-contact fields and signature blocks."
+        "latest_text_changes_only": "Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained.",
+        "word_count_clean": 481,
+        "remaining_placeholders": [],
+        "privacy_notice_unchanged": true,
+        "latest_agreement_text_changes_only": "Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained.",
+        "bracketed_placeholders_replaced_with_labeled_blanks": true,
+        "no_forced_page_break_before_section_4": true,
+        "layout_only_text_unchanged": true
       },
       "title": "Institutional Safety and Conduct Agreement",
-      "latest_revision": "Authorized institutional representative signs for Institution and confirms authority, solely in that capacity and without a personal guarantee. Mentor remains the coordination contact and need not be the signer.",
+      "latest_revision": "Removed the forced page break before Section 4. Section 4 now follows Section 3; Section 5 stays with the institutional signature block. Layout only; agreement text and version unchanged.",
       "deliverables": {
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx": {
-          "sha256": "d22e93bbf492e0a26cd31cc257155fbece99e6cda8729334dd31535b7b09c2cf",
-          "bytes": 28697
+          "sha256": "5c08603c6dd22c3061a01be578781a428539660b3ebdda628fba603d13d43d92",
+          "bytes": 28778
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.pdf": {
-          "sha256": "c93aa8f2a298cb2026ad9f481b5cb2d8c88c676a1d8a83ed342b8f96b85773a9",
-          "bytes": 53669
+          "sha256": "534cf7ce4d5096fdee7b0d8dc1d77d0977f6fe1630bdb679cf5ae802d973164f",
+          "bytes": 54422
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx": {
-          "sha256": "50e34accc266a6b4584f0a868adf2d30e0386b9aaac467c8d47603b41547fd4b",
-          "bytes": 30535
+          "sha256": "a34657812dfa29a29e159897f3d2c9ec39003f609880ce31ebd04e4e7e6231d4",
+          "bytes": 30650
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.pdf": {
-          "sha256": "86d6940abd44c944fb0a7bbecb4b072e4b1b01154b25ec9d1214517a0b1a5696",
-          "bytes": 90524
+          "sha256": "9d940eda39601185d83427d5f5be9cb9f37a353c77f8ae622b4195b125635755",
+          "bytes": 91559
         }
-      }
+      },
+      "remaining_completion_fields": [
+        "Institution legal name",
+        "Institution country",
+        "Team mentor name",
+        "Mentor email",
+        "Institutional signer full name",
+        "Institutional signer title/position",
+        "Signatures and dates"
+      ]
     }
   ],
   "directory_layout": "Each agreement has independent version folders. Paths are relative to 03-safety-and-risk."

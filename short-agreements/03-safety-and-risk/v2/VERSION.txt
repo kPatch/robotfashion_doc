@@ -1,7 +1,7 @@
 Version: v2
 Document: Institutional Safety and Conduct Agreement
 Date: 2026-11-18
-Time: 10:14:31 EST (America/New_York)
+Time: 12:55:04 EST (America/New_York)
 Baseline: v1 participant draft; redline compares the current v2 against v1.
 
 Current drafting round:
@@ -27,3 +27,14 @@ Latest signing-role update (current wording supersedes earlier signing descripti
 - Institutional signer wording, mentor coordination-contact fields and signature blocks. Other substantive agreement terms remain unchanged in this update.
 - All three current versions updated together: media v2, participation v4 and institutional safety v2. No new version numbers.
 - Clean and redlined Word/PDF copies regenerated. Existing redline baselines retained. Native tracked-change acceptance/rejection checks passed; every final rendered page was visually reviewed.
+
+Completion-field update — 2026-11-18 12:55:04 EST:
+- Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained.
+- Current Word/PDF clean and cumulative redline copies updated; earlier baselines preserved.
+- No bracketed placeholders remain in the clean text. Labeled blanks and signing fields still require completion.
+- Clean PDF: 2 pages. Review PDF: 2 pages. Existing 11-point Times New Roman retained.
+- Text changes confined to completion fields and instructions; payment terms, media permissions, safety duties and loan terms unchanged. Native redlines accept to clean and reject to the recorded baseline. Privacy Notice unchanged.
+
+Layout correction — 2026-11-18 13:06:19 EST:
+- Removed the forced page break before Section 4. Section 4 now follows Section 3; Section 5 stays with the institutional signature block. Layout only; agreement text and version unchanged.
+- Clean Word and PDF regenerated and both pages visually checked. Existing cumulative redline has no corresponding forced break and remains unchanged.

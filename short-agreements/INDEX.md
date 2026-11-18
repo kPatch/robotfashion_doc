@@ -1,6 +1,6 @@
 # Short agreements — current versions
 
-Index updated: November 18, 2026 at 12:37:45 EST (America/New_York).
+Index updated: November 18, 2026 at 12:55:04 EST (America/New_York).
 
 These are the current working drafts. Each institution signs through an authorized institutional representative. The mentor is the coordination contact and need not be the signer. Version numbers apply independently to each document; an unchanged agreement keeps its existing version.
 
@@ -28,7 +28,9 @@ One Privacy Notice covers relevant activities across the three agreements. It is
 
 - Media and content: v1 and v2. Current v2 is one institutional agreement signed by an authorized institutional representative; the mentor remains the coordination contact; it has no individual consent checkboxes. Credit details are coordinated through the mentor by email without amending the agreement. Document 1 links to https://www.robotfashion.com/privacy-notice. Document 2 v4 references this agreement.
 - Participation and funding: v1, v2, v3 and v4. Current v4 requires one of two attendance choices: attending in person or participating by shipment. Garment scope is confirmed by email without a separate design-summary reference placeholder. Each revised version includes a redline against its preceding version.
-- Safety and conduct: v1 and v2. Current v2 is a one-page institutional agreement signed once by an authorized institutional representative; the mentor remains the coordination contact. Institution manages team safety briefings, supervision and compliance; individual signatures and releases are not required. Document 2 v4 references this institutional safety agreement.
+- Safety and conduct: v1 and v2. Current v2 is an institutional agreement signed once by an authorized institutional representative; the mentor remains the coordination contact. Institution manages team safety briefings, supervision and compliance; individual signatures and releases are not required. Document 2 v4 references this institutional safety agreement.
+
+Current clean agreements use separate labeled blanks for institution and contact information, signer details and dates. Document 2 retains two attendance choices and marks Organizer-completed and mutually agreed fields. Bracketed drafting placeholders have been removed; the Privacy Notice is unchanged.
 
 Each version folder contains the Word/PDF files and a VERSION.txt date/time record. The original v1 package timestamp and notes have been preserved for all three agreements.
 

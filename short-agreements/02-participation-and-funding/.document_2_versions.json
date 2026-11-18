@@ -99,22 +99,16 @@
       "baseline_sha256": "3838afdfe0a89a3cb87d25ccd33578a6b2d59841d9143e22461028cf20e8e213",
       "reject_restores_baseline_text": true,
       "changes": 29,
-      "remaining_placeholders": [
-        "[ADDRESS]",
-        "[INTERNATIONAL / US-BASED]",
-        "[LEGAL NAME AND COUNTRY]",
-        "[NAME AND EMAIL]",
-        "[VENUE]"
-      ],
-      "timestamp": "2026-11-18T12:37:45.692672-05:00",
+      "remaining_placeholders": [],
+      "timestamp": "2026-11-18T12:55:04.344760-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
         "reject_restores_baseline_text": true,
         "all_pages_visually_reviewed": true,
-        "clean_pdf_pages": 4,
-        "redline_pdf_pages": 5,
-        "native_redline_pdf_pages": 5,
+        "clean_pdf_pages": 5,
+        "redline_pdf_pages": 6,
+        "native_redline_pdf_pages": 6,
         "no_forced_page_break_before_section_10": true,
         "fixed_travel_support_without_receipts_preserved": true,
         "minimum_loan_continues_until_return_notice": true,
@@ -123,37 +117,66 @@
         "unique_revision_ids": true,
         "active_attendance_checkbox_count": 2,
         "no_undecided_attendance_option": true,
-        "latest_agreement_text_changes_only": "Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement.",
+        "latest_agreement_text_changes_only": "Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained. Document 2 separates mailing address, formal-notices and travel contacts; labels venue for Organizer completion; uses a circle-one institution category; retains exactly two attendance choices; allows an unbooked arrival date to be confirmed later; separates governing-law/court fields for agreement before signing; and updates completion instructions.",
         "safety_reference_v2": true,
         "latest_changed_body_paragraphs_zero_based": [
-          19
+          3,
+          4,
+          6,
+          8,
+          11,
+          46,
+          47,
+          50,
+          51
         ],
         "institutional_signer_and_mentor_contact_separated": true,
         "authorized_institutional_representative_signature": true,
-        "latest_text_changes_only": "Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement.",
-        "design_summary_placeholder_removed": true
+        "latest_text_changes_only": "Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained. Document 2 separates mailing address, formal-notices and travel contacts; labels venue for Organizer completion; uses a circle-one institution category; retains exactly two attendance choices; allows an unbooked arrival date to be confirmed later; separates governing-law/court fields for agreement before signing; and updates completion instructions.",
+        "design_summary_placeholder_removed": true,
+        "word_count_clean": 2328,
+        "remaining_placeholders": [],
+        "privacy_notice_unchanged": true,
+        "bracketed_placeholders_replaced_with_labeled_blanks": true,
+        "signature_review_layout": "Review copies use two-column tables for name/title and date rows; payment table unchanged."
       },
       "deliverables": {
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
-          "sha256": "4f13a66cb0698d21a51251e51100961919458dd25d068ec15b91243f795bd76d",
-          "bytes": 34022
+          "sha256": "62801dd6701e9df0aa045d897d89f27620dc13c678136c8fa930c657c1e97e2a",
+          "bytes": 34322
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
-          "sha256": "26ab805bd4a9465d84f5dbceb3096960beadfdf405e3b7ada34e9878cc09012e",
-          "bytes": 87399
+          "sha256": "eeb825a254add1c5ee0ba824fff27cec0a3d1e7d403b08e310d715d94a03e5b9",
+          "bytes": 88432
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
-          "sha256": "31cb5baded71f058662e45ae3ab8ee2f82518782635c43397dda3146c0e799a4",
-          "bytes": 37317
+          "sha256": "bb0b09b4d9f2fd238efa403ab82480bf048fe164cfc809de32733bfd75c3dd6b",
+          "bytes": 38104
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
-          "sha256": "8a0dcd342311f9369cd974e472c7574b528b00b623924efb1b6ba47d6d533ab0",
-          "bytes": 153988
+          "sha256": "b718b1c4482437c09e66ebb775717a2f9a469d94f8d94fd6e1f33ad098da9477",
+          "bytes": 163155
         }
       },
-      "word_count_clean": 2208,
+      "word_count_clean": 2328,
       "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement.",
-      "latest_revision": "Simplified the first paragraph of section 4 to confirm the number of looks, final designs and fitting requirements by email. Removed the design-summary reference placeholder, formal incorporation and pre-signing confirmation requirement. Material changes require mutual written agreement."
+      "latest_revision": "Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained. Document 2 separates mailing address, formal-notices and travel contacts; labels venue for Organizer completion; uses a circle-one institution category; retains exactly two attendance choices; allows an unbooked arrival date to be confirmed later; separates governing-law/court fields for agreement before signing; and updates completion instructions.",
+      "remaining_completion_fields": [
+        "Institution legal name",
+        "Institution country",
+        "Team mentor name",
+        "Mentor email",
+        "Institutional signer full name",
+        "Institutional signer title/position",
+        "Signatures and dates",
+        "Institution mailing address",
+        "Formal-notices contact name/email",
+        "Event venue (Organizer)",
+        "Attendance selection",
+        "Institution category",
+        "Expected travelers, arrival date and travel contact if attending",
+        "Governing law and courts/venue (mutual agreement)"
+      ]
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."

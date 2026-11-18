@@ -1,7 +1,7 @@
 Version: v2
 Document: Institutional Media and Content Agreement
 Date: 2026-11-18
-Time: 12:06:16 EST (America/New_York)
+Time: 12:55:04 EST (America/New_York)
 Baseline: v1 draft. Redline compares the current v2 against v1.
 
 Changes:
@@ -59,3 +59,10 @@ URL update — 2026-11-18 12:06:16 EST:
 - Updated the Privacy Notice URL to https://www.robotfashion.com/privacy-notice. The old /project-privacy URL permanently redirects to the new page. Version numbers and substantive terms unchanged.
 - Clean and cumulative v2-versus-v1 redline Word/PDF copies regenerated and visually checked. Accept/reject verification passed.
 - Live publication verified 2026-11-18 12:07:14 EST: /privacy-notice returns 200; /project-privacy permanently redirects (308); the existing notice PDF remains available.
+
+Completion-field update — 2026-11-18 12:55:04 EST:
+- Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained.
+- Current Word/PDF clean and cumulative redline copies updated; earlier baselines preserved.
+- No bracketed placeholders remain in the clean text. Labeled blanks and signing fields still require completion.
+- Clean PDF: 2 pages. Review PDF: 3 pages. Existing 11-point Times New Roman retained.
+- Text changes confined to completion fields and instructions; payment terms, media permissions, safety duties and loan terms unchanged. Native redlines accept to clean and reject to the recorded baseline. Privacy Notice unchanged.
