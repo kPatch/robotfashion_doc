@@ -10,18 +10,18 @@
       "word_count_clean": 481,
       "remaining_placeholders": [],
       "baseline": "v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx",
-      "timestamp": "2026-11-18T13:07:55.365243-05:00",
+      "timestamp": "2026-11-18T13:14:36.974276-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
         "reject_restores_baseline_text": true,
         "unique_revision_ids": true,
         "all_pages_visually_reviewed": true,
-        "clean_pdf_pages": 2,
+        "clean_pdf_pages": 1,
         "redline_pdf_pages": 2,
         "native_redline_pdf_pages": 2,
         "no_checkboxes": true,
-        "font": "Times New Roman 11 point body; original page margins retained",
+        "font": "Times New Roman 11 point body and form fields; original title retained",
         "one_institutional_signature": true,
         "no_individual_release": true,
         "latest_changed_body_paragraphs_zero_based": [
@@ -39,18 +39,22 @@
         "bracketed_placeholders_replaced_with_labeled_blanks": true,
         "no_forced_page_break_before_section_4": true,
         "layout_only_text_unchanged": true,
-        "section_5_follows_section_4_on_same_page": true
+        "section_5_follows_section_4_on_same_page": true,
+        "wording_preserved_ignoring_whitespace_and_blank_lengths": true,
+        "clean_page_margins_inches": 0.75,
+        "all_sections_and_signature_on_one_page": true,
+        "redline_wording_comparison": "Existing cumulative redline unchanged; current clean differs only in whitespace, blank lengths and layout."
       },
       "title": "Institutional Safety and Conduct Agreement",
-      "latest_revision": "Removed the keep-with-next setting connecting Section 5 body text to the signature block. Sections 4 and 5 now flow consecutively on page 1; the signature block stays together on page 2. Text and v2 unchanged.",
+      "latest_revision": "Fitted the clean agreement on one page using 0.75-inch margins, compact paragraph spacing and paired institution/country, signer name/title and signature/date fields. Mentor name and email retain separate long lines. All wording preserved; only whitespace and blank lengths changed. Body and form text remain 11-point Times New Roman. Version remains v2.",
       "deliverables": {
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx": {
-          "sha256": "c92952c75c0c605fc0ecd36da350d4ccd05443693abe77d5f57679995b471e01",
-          "bytes": 28776
+          "sha256": "2d5bc30eab5a18afa8072ea52f4af12417e68d6fbc8ec3c7ca5fbc97f4c4fd1c",
+          "bytes": 29004
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.pdf": {
-          "sha256": "1edbeec23cce27a0d88e442eb7e2c16d37173aa1507cc1f545a9dc97c35c3bfa",
-          "bytes": 54316
+          "sha256": "30f4d2ccb30b00ada936ea75e05ffc9079bb1d67b660a69bbbb0893fb0be83d8",
+          "bytes": 53465
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx": {
           "sha256": "a34657812dfa29a29e159897f3d2c9ec39003f609880ce31ebd04e4e7e6231d4",

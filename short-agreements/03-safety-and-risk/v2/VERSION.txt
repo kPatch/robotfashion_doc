@@ -42,3 +42,7 @@ Layout correction — 2026-11-18 13:06:19 EST:
 Pagination correction — 2026-11-18 13:07:55 EST:
 - Removed the keep-with-next setting connecting Section 5 body text to the signature block. Sections 4 and 5 now flow consecutively on page 1; the signature block stays together on page 2. Text and v2 unchanged.
 - Both clean pages rendered and visually verified. This supersedes the prior instruction to keep Section 5 with the signature block.
+
+One-page layout — 2026-11-18 13:14:36 EST:
+- Fitted the clean agreement on one page using 0.75-inch margins, compact paragraph spacing and paired institution/country, signer name/title and signature/date fields. Mentor name and email retain separate long lines. All wording preserved; only whitespace and blank lengths changed. Body and form text remain 11-point Times New Roman. Version remains v2.
+- Regenerated clean Word and PDF; rendered page visually checked. One-page PDF confirmed and every paragraph compared for preserved wording. This supersedes earlier two-page layout notes.

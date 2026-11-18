@@ -59,3 +59,11 @@ Completion-field update — 2026-11-18 12:55:04 EST:
 - No bracketed placeholders remain in the clean text. Labeled blanks and signing fields still require completion.
 - Clean PDF: 5 pages. Review PDF: 6 pages. Existing 11-point Times New Roman retained.
 - Text changes confined to completion fields and instructions; payment terms, media permissions, safety duties and loan terms unchanged. Native redlines accept to clean and reject to the recorded baseline. Privacy Notice unchanged.
+
+Governing-law clause update — 2026-11-18 13:35:48 EST:
+- Replaced governing-law and court fields with the agreed operative governing-law and exclusive-jurisdiction clause, retaining blanks for the agreed law and courts. Removed the related pre-signing drafting instructions and the completion instruction from the signer paragraph. Institutional-addendum provision retained. All other terms unchanged; v4 retained.
+- Clean Word/PDF and cumulative redline Word/PDF updated. Clean: 5 pages; redline: 6 pages. Accepted revisions match clean; rejected revisions restore v3. Rendered pages checked; unchanged review pages verified pixel-identical to previously inspected renders.
+
+Court-description update — 2026-11-18 13:41:14 EST:
+- Clarified the exclusive-forum clause to read: the courts of competent jurisdiction located in [blank]. Governing-law and location blanks retained. No other text changed; v4 retained.
+- Clean Word/PDF and cumulative redline Word/PDF regenerated. Changed pages visually checked; all other pages pixel-identical to the prior reviewed renders. Tracked-change acceptance/rejection checks passed.
