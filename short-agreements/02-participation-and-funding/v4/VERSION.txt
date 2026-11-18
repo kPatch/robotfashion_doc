@@ -1,7 +1,7 @@
 Version: v4
 Document: Institutional Participation and Funding Agreement
 Date: 2026-11-18
-Time: 01:19:42 EST (America/New_York)
+Time: 01:56:46 EST (America/New_York)
 Baseline: v3 clean version; redline shows all cumulative v4 changes against v3.
 
 Changes:
@@ -15,10 +15,16 @@ Changes:
 - Expressly includes ordinary monetary garment-loss claims in the existing aggregate liability cap, while preserving payment/refund duties, return obligations and the stated liability exceptions.
 - Removes ambiguous indemnity wording; specifies legally required insurance, with additional coverage requirements only by written agreement.
 - Clarifies cancellation requests without receipts, prior booking approval, and termination if disruption arrangements cannot be agreed within 30 days.
-- Clarifies LLC representative signature, identifies the media/safety v1 forms, and requires both parties to sign an addendum identifying the provisions it modifies.
+- Clarifies LLC representative signature, identifies the media v2 and safety v1 forms, and requires both parties to sign an addendum identifying the provisions it modifies.
 
 Contents: clean and redlined Word and PDF files. Clean: four pages. Redline: five pages. Word redline retains native tracked changes; PDF shows red struck-through deletions and blue underlined insertions.
 
 Verification: accepting tracked changes reproduces the clean text; rejecting them restores v3 body/table text. Every clean, native-redline and PDF-redline page was visually reviewed. No forced page break before Section 10. Signatures remain together.
 
-Version retained at v4 at the user's request. Earlier versions and Documents 1 and 3 remain unchanged.
+Version retained at v4 at the user's request. Earlier participation versions and Document 3 remain unchanged.
+
+Institutional media and attendance update:
+- Section 6 now identifies one Institutional Media and Content Agreement (v2), signed by Institution's authorized mentor. Institution obtains and retains underlying permissions through its own process; individual team members need not sign separate copies of that institutional agreement.
+- Requires exactly one attendance selection before signing: attending in person or participating by shipment. Removes the undecided option and its empty paragraph. The deleted option appears only as a historical deletion in the redline.
+- All other current v4 agreement wording, including payment amounts, fixed travel support without receipts, delivery, minimum garment loan and liability provisions, is unchanged by this update.
+- Redline remains cumulative against v3. Clean remains four pages and redline five pages. Acceptance/rejection comparisons pass and every final rendered page was visually reviewed.

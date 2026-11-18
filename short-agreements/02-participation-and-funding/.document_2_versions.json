@@ -98,7 +98,7 @@
       "baseline": "v3/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx",
       "baseline_sha256": "3838afdfe0a89a3cb87d25ccd33578a6b2d59841d9143e22461028cf20e8e213",
       "reject_restores_baseline_text": true,
-      "changes": 24,
+      "changes": 26,
       "remaining_placeholders": [
         "[ADDRESS]",
         "[EMAIL DATE OR ATTACHMENT]",
@@ -107,7 +107,7 @@
         "[NAME AND EMAIL]",
         "[VENUE]"
       ],
-      "timestamp": "2026-11-18T01:19:42.413898-05:00",
+      "timestamp": "2026-11-18T01:56:46.008421-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -119,28 +119,34 @@
         "no_forced_page_break_before_section_10": true,
         "fixed_travel_support_without_receipts_preserved": true,
         "minimum_loan_continues_until_return_notice": true,
-        "redline_pdf": "Visible red strikethrough deletions and blue underlined insertions; Word retains native tracked changes."
+        "redline_pdf": "Visible red strikethrough deletions and blue underlined insertions; Word retains native tracked changes.",
+        "media_reference_v2": true,
+        "unique_revision_ids": true,
+        "active_attendance_checkbox_count": 2,
+        "no_undecided_attendance_option": true,
+        "latest_agreement_text_changes_only": "Attendance instruction, deletion of undecided option, and section 6 media agreement workflow; all other current v4 wording preserved."
       },
       "deliverables": {
-        "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
-          "sha256": "d04d11285b3af7520f95aaef2e5b9ec5af59a61951e7f4fe25e79832ccde28a4",
-          "bytes": 148685
-        },
-        "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
-          "sha256": "b33684f98e2634851432d8ab30f4b2b7ea669cfd2cc75dfd348a11423c32aabb",
-          "bytes": 36753
+        "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
+          "sha256": "a8e3788a679909cd6e516a36228f2501b3b9542ce33758c9cdacfd51729462a0",
+          "bytes": 33867
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
-          "sha256": "0243bc651c0c37e21294a1dfea92b4ae65622843f66d0bd35efbbe5417099fae",
-          "bytes": 87253
+          "sha256": "64d04565715a7226e135ed4d0552d8b7676dada4ef29d4a707e4dc4671b0789f",
+          "bytes": 87128
         },
-        "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
-          "sha256": "dbb48b718d7f9453c741ba668d7216fa78f50fe39472e1fc4fea8c05c25cfa33",
-          "bytes": 33829
+        "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
+          "sha256": "cbf954ffed8889b749315011cd80d3eaa26bd0199f90aca90dfb04cc67032379",
+          "bytes": 36921
+        },
+        "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
+          "sha256": "c7032c0fb29f9a27be301aeaccec35d964bff4f426dd0e316c53810b44745134",
+          "bytes": 150013
         }
       },
-      "word_count_clean": 2125,
-      "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement."
+      "word_count_clean": 2152,
+      "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement.",
+      "latest_revision": "Attendance requires exactly one of attending in person or participating by shipment; removes undecided option. Section 6 identifies one Institutional Media and Content Agreement (v2), signed by the authorized mentor, with underlying permissions managed by Institution."
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."

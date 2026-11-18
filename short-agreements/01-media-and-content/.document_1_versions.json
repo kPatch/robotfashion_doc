@@ -1,0 +1,58 @@
+{
+  "current_version": "v2",
+  "versions": [
+    {
+      "version": "v2",
+      "baseline": "v1/01_Media_and_Content_License_and_Likeness_Release_DRAFT.docx",
+      "baseline_sha256": "d03dba3c6799fcb4ac4f3cc8db31174f3bf2e98e80345a2b4416de46cade9588",
+      "reject_restores_baseline_text": true,
+      "accepted_tracked_text_matches_clean": true,
+      "changed_paragraphs": 19,
+      "word_count_clean": 836,
+      "remaining_placeholders": [
+        "[CREDIT DETAILS]",
+        "[EMAIL]",
+        "[LEGAL NAME AND COUNTRY]",
+        "[NAME]",
+        "[PRIVACY NOTICE URL OR ATTACHED NOTICE]"
+      ],
+      "timestamp": "2026-11-18T08:51:23.656550-05:00",
+      "date": "2026-11-18",
+      "verification": {
+        "accepted_tracked_text_matches_clean": true,
+        "reject_restores_baseline_text": true,
+        "all_pages_visually_reviewed": true,
+        "clean_pdf_pages": 2,
+        "redline_pdf_pages": 3,
+        "native_redline_pdf_pages": 3,
+        "unique_revision_ids": true,
+        "no_consent_checkboxes": true,
+        "institutional_mentor_signature": true,
+        "signature_review_layout": "The redline uses two cells for the signature-name row to keep old and new wording within their respective columns; body-text comparisons normalize that row to a tab.",
+        "materials_placeholder_removed": true,
+        "latest_text_changes_only": "Section 1 materials description and section 4 logo clause"
+      },
+      "deliverables": {
+        "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.docx": {
+          "sha256": "9ae3d39a42871cd52c8772c981a68ec48d59bfdb6c180bcfb2e56cb533d76390",
+          "bytes": 30030
+        },
+        "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.pdf": {
+          "sha256": "94dc35e29e1f5dc9c1e2dc1103b3f7707a2a8557483f5f561bb4638bcfc7d04d",
+          "bytes": 62769
+        },
+        "v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx": {
+          "sha256": "986411b29465d261605e52bf338d4074d93d303b688b3e037467bec7870404d4",
+          "bytes": 32548
+        },
+        "v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf": {
+          "sha256": "bca4db4570134a16a9abaed102bd7603d7a402ac1ef4d38ac6863a130bfea567",
+          "bytes": 110205
+        }
+      },
+      "title": "Institutional Media and Content Agreement",
+      "latest_revision": "Section 1 now covers 2026 consultation garment looks and agreed accessories, as described in Document 2, plus related materials supplied before or after signing. Removes the separate materials-list placeholder and repeat confirmation requirement. Logo use requires institutional written approval and supplied brand guidelines."
+    }
+  ],
+  "directory_layout": "Paths are relative to 01-media-and-content; v1 remains unchanged."
+}
