@@ -6,18 +6,13 @@
       "baseline_sha256": "ba585353683fa5722e13e965ba1f53f0861b99f861938e33319d42d1ef16ab8c",
       "reject_restores_baseline_text": true,
       "accepted_tracked_text_matches_clean": true,
-      "changed_paragraphs": 9,
-      "word_count_clean": 482,
+      "changed_paragraphs": 16,
+      "word_count_clean": 419,
       "remaining_placeholders": [
-        "[DATES]",
-        "[DETAILS]",
-        "[FULL NAME]",
-        "[NAME AND CONTACT]",
-        "[NAME]",
-        "[PRIVACY NOTICE URL OR ATTACHED NOTICE]"
+        "[LEGAL NAME AND COUNTRY]"
       ],
       "baseline": "v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx",
-      "timestamp": "2026-11-18T08:59:09.153036-05:00",
+      "timestamp": "2026-11-18T09:11:07.114783-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -28,26 +23,28 @@
         "redline_pdf_pages": 2,
         "native_redline_pdf_pages": 2,
         "no_checkboxes": true,
-        "font": "Times New Roman 11 point body; original page margins retained"
+        "font": "Times New Roman 11 point body; original page margins retained",
+        "one_institutional_signature": true,
+        "no_individual_release": true
       },
-      "title": "Participant Safety and Risk Acknowledgment",
-      "latest_revision": "Personal safety form for adults participating in covered activities; robots and mannequins; institutional payments and property claims preserved; unified privacy contact; minors require approved arrangements and required permissions.",
+      "title": "Institutional Safety and Conduct Agreement",
+      "latest_revision": "One institutional safety and conduct agreement signed by the authorized mentor or institutional representative; no individual signatures or releases; institutional briefings, supervision and coordination; on-site safety contact supplied operationally; responsibility and disputes aligned with Document 2.",
       "deliverables": {
-        "v2/03_Participant_Safety_and_Risk_Acknowledgment_CLEAN.docx": {
-          "sha256": "e3f9a271fb84603f45ef92ca067903169703dc2de661f20a1348b7c95893db8f",
-          "bytes": 28801
+        "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx": {
+          "sha256": "26a39ce984a37b71f3c4fe42f3d4f436f1b36aa422145a285d93cb25a3d0c06c",
+          "bytes": 28600
         },
-        "v2/03_Participant_Safety_and_Risk_Acknowledgment_CLEAN.pdf": {
-          "sha256": "c9e8c2d6ab2b94f2addf7978a91ab06af230ad4b0c81d65f9ec1660eab01300f",
-          "bytes": 53761
+        "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.pdf": {
+          "sha256": "f83211f1eb495e0965d5679ade37f599da5f4f618d8eb60f33db13a071765f7c",
+          "bytes": 53512
         },
-        "v2/03_Participant_Safety_and_Risk_Acknowledgment_REDLINE.docx": {
-          "sha256": "7171de48111100b8764422fdb82a2f24eda7ea95f8ee21979e2278f4b7f7bd5d",
-          "bytes": 29814
+        "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx": {
+          "sha256": "bdec87e0f9629618686970026718b513f3f558c3312d5fafc03e47542df897a4",
+          "bytes": 30389
         },
-        "v2/03_Participant_Safety_and_Risk_Acknowledgment_REDLINE.pdf": {
-          "sha256": "79e68abe4aaff2fd88baf9092df4e0a84c970475bf20444b076ba3762a335f86",
-          "bytes": 78929
+        "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.pdf": {
+          "sha256": "a7db359c4990e603aa30330d4ff63de503f743a332a011b4d30e0f69d94ad263",
+          "bytes": 88354
         }
       }
     }

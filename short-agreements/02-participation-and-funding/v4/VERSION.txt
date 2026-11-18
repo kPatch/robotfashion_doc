@@ -1,7 +1,7 @@
 Version: v4
 Document: Institutional Participation and Funding Agreement
 Date: 2026-11-18
-Time: 08:59:09 EST (America/New_York)
+Time: 09:11:07 EST (America/New_York)
 Baseline: v3 clean version; redline shows all cumulative v4 changes against v3.
 
 Changes:
@@ -29,8 +29,14 @@ Institutional media and attendance update:
 - All other current v4 agreement wording, including payment amounts, fixed travel support without receipts, delivery, minimum garment loan and liability provisions, is unchanged by this update.
 - Redline remains cumulative against v3. Clean remains four pages and redline five pages. Acceptance/rejection comparisons pass and every final rendered page was visually reviewed.
 
-Safety consistency update:
+Earlier safety consistency update (superseded below):
 - Section 6 now identifies Participant Safety and Risk Acknowledgment (v2), signed by adults before covered activities, with Institution's mentor coordinating collection.
 - Covers garment handling, fittings, rehearsals, backstage work and robot interaction; shipment-only members are exempt unless joining these activities. Minors need Organizer-approved arrangements and legally required permissions.
 - All other current v4 agreement wording is unchanged in this update. Media remains v2. Redline stays cumulative against v3. Clean remains four pages; redline five pages.
 - Native tracked-change acceptance/rejection checks passed. Rendered pages 1 and 2 are identical to previously reviewed pages; all changed pages were visually reviewed.
+
+Current institutional safety update:
+- Section 6 now identifies Institutional Safety and Conduct Agreement (v2), signed once for Institution by its authorized mentor or another authorized institutional representative.
+- Removes the individual adult safety-signature and collection requirements. Institution manages team briefings, supervision and compliance; minors still need Organizer-approved arrangements and legally required permissions.
+- Supersedes the earlier personal safety-form approach described above. All other current v4 wording is unchanged. Document 1 remains v2.
+- Redline remains cumulative against v3. Clean: four pages. Redline: five pages. Native tracked-change acceptance/rejection checks passed and every rendered page was visually reviewed.

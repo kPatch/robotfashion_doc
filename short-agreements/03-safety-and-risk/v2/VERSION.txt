@@ -1,19 +1,22 @@
 Version: v2
-Document: Participant Safety and Risk Acknowledgment
+Document: Institutional Safety and Conduct Agreement
 Date: 2026-11-18
-Time: 08:59:09 EST (America/New_York)
-Baseline: v1 draft; redline compares v2 against v1.
+Time: 09:11:07 EST (America/New_York)
+Baseline: v1 participant draft; redline compares the current v2 against v1.
 
-Changes:
-- Defines a personal safety acknowledgment signed by each adult before garment handling, fittings, rehearsals, backstage work or robot interaction. Shipment-only team members need not sign unless they join these activities. Document 2 assigns collection coordination to the mentor.
-- Covers robots, mannequins and event production, while preserving the right to stop unsafe work and request assistance.
-- Aligns authorization and technical-approval rules with Document 2.
-- Leaves institutional payments, garment custody and return obligations in Document 2; grants no additional media permissions.
-- Retains the limited inherent-risk release and exceptions for negligence, gross negligence, intentional misconduct, defective equipment and nonwaivable liability. Does not release claims belonging to Institution or garment owners, or add an indemnity.
-- Uses partners@robotfashion.com for privacy requests and the same privacy-notice placeholder as Document 1. Organizer must provide the notice before collecting contact details.
-- Identifies the safety lead and covered activities, locations and dates as fields to complete. Minors require Organizer-approved arrangements and legally required parent or guardian permissions before participation.
-- Preserves 11-point Times New Roman body text and original margins; adjusts paragraph spacing to keep the clean acknowledgment and signature on one page. No checkboxes.
+Current drafting round:
+- Replaces the individual participant acknowledgment with one institutional safety and conduct agreement signed by the authorized mentor or another authorized institutional representative.
+- No individual signatures, personal assumption of risk, individual injury release or personal guarantee. No checkboxes.
+- Institution manages team instructions, required briefings, appropriate supervision, conduct and reporting of hazards or injuries.
+- Organizer provides applicable safety instructions and identifies the on-site safety contact before covered activities. Removes the safety-contact placeholder and individual emergency-contact fields; Institution coordinates emergency contacts through the mentor.
+- Covers Project garment handling, fittings, rehearsals, backstage work and robot interaction, including robot and mannequin risks. Preserves the right to stop unsafe activity.
+- Aligns technical-approval requirements with Document 2. Minors require Organizer-approved arrangements and legally required permissions through Institution's procedures.
+- Applies Document 2 sections 9 and 10 for responsibility and disputes; creates no separate liability cap or indemnity. Media, payments, garment custody and return obligations remain governed by their existing agreements.
+- Only the institution's legal name/country and representative/signature details need completion in this form.
+- Preserves Times New Roman 11 point body text and original margins. Clean: one page. Redline: two pages.
 
-Contents: clean and redlined Word and PDF files. Clean: one page. Redline: two pages. Word redline contains native tracked changes; PDF redline shows red struck-through deletions and blue underlined insertions.
+Files: clean and redlined Word/PDF copies. Word redline uses native tracked changes; PDF redline shows red struck-through deletions and blue underlined insertions. Renamed the tracked v2 files using git mv to reflect the institutional title; v1 filenames and contents are unchanged.
 
-Verification: accepting tracked changes reproduces clean body text; rejecting them restores v1 body text. Every final rendered page was visually reviewed. The original v1 files are unchanged. Document 2 remains v4 and now references safety v2; Document 1 remains unchanged at v2.
+Verification: accepting tracked changes matches clean body text; rejecting changes restores v1 body text. Every final rendered page was visually reviewed. Document 2 remains v4 with section 6 aligned. Document 1 remains unchanged at v2.
+
+Draft history: the earlier v2 approach required individual adult signatures and mentor-coordinated collection. The current institutional approach supersedes that approach within v2.
