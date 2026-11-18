@@ -1,0 +1,19 @@
+Version: v2
+Document: Participant Safety and Risk Acknowledgment
+Date: 2026-11-18
+Time: 08:59:09 EST (America/New_York)
+Baseline: v1 draft; redline compares v2 against v1.
+
+Changes:
+- Defines a personal safety acknowledgment signed by each adult before garment handling, fittings, rehearsals, backstage work or robot interaction. Shipment-only team members need not sign unless they join these activities. Document 2 assigns collection coordination to the mentor.
+- Covers robots, mannequins and event production, while preserving the right to stop unsafe work and request assistance.
+- Aligns authorization and technical-approval rules with Document 2.
+- Leaves institutional payments, garment custody and return obligations in Document 2; grants no additional media permissions.
+- Retains the limited inherent-risk release and exceptions for negligence, gross negligence, intentional misconduct, defective equipment and nonwaivable liability. Does not release claims belonging to Institution or garment owners, or add an indemnity.
+- Uses partners@robotfashion.com for privacy requests and the same privacy-notice placeholder as Document 1. Organizer must provide the notice before collecting contact details.
+- Identifies the safety lead and covered activities, locations and dates as fields to complete. Minors require Organizer-approved arrangements and legally required parent or guardian permissions before participation.
+- Preserves 11-point Times New Roman body text and original margins; adjusts paragraph spacing to keep the clean acknowledgment and signature on one page. No checkboxes.
+
+Contents: clean and redlined Word and PDF files. Clean: one page. Redline: two pages. Word redline contains native tracked changes; PDF redline shows red struck-through deletions and blue underlined insertions.
+
+Verification: accepting tracked changes reproduces clean body text; rejecting them restores v1 body text. Every final rendered page was visually reviewed. The original v1 files are unchanged. Document 2 remains v4 and now references safety v2; Document 1 remains unchanged at v2.

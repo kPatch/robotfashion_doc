@@ -107,7 +107,7 @@
         "[NAME AND EMAIL]",
         "[VENUE]"
       ],
-      "timestamp": "2026-11-18T01:56:46.008421-05:00",
+      "timestamp": "2026-11-18T08:59:09.153036-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -124,29 +124,31 @@
         "unique_revision_ids": true,
         "active_attendance_checkbox_count": 2,
         "no_undecided_attendance_option": true,
-        "latest_agreement_text_changes_only": "Attendance instruction, deletion of undecided option, and section 6 media agreement workflow; all other current v4 wording preserved."
+        "latest_agreement_text_changes_only": "Section 6 safety-form reference and collection instructions. All other current v4 text is unchanged.",
+        "safety_reference_v2": true,
+        "unchanged_render_pages_match_previous_review": "Pages 1 and 2 are byte-identical to the previously reviewed clean/native-redline/PDF-redline renders; all remaining pages were visually reviewed."
       },
       "deliverables": {
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
-          "sha256": "a8e3788a679909cd6e516a36228f2501b3b9542ce33758c9cdacfd51729462a0",
-          "bytes": 33867
+          "sha256": "459d132baa4828581435582be15f38cb08f2603a1e5b684993e65ff3efe92e38",
+          "bytes": 33990
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
-          "sha256": "64d04565715a7226e135ed4d0552d8b7676dada4ef29d4a707e4dc4671b0789f",
-          "bytes": 87128
+          "sha256": "fbb5101d9f20da20bb59cf32acd4dd56d2197f150f880455eb39a4e2bdabbd20",
+          "bytes": 87619
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
-          "sha256": "cbf954ffed8889b749315011cd80d3eaa26bd0199f90aca90dfb04cc67032379",
-          "bytes": 36921
+          "sha256": "afd7bc6cf904db69f815b1b0e3f76e42467865d4148ef5d2c0c64b8c72bb68c9",
+          "bytes": 37125
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
-          "sha256": "c7032c0fb29f9a27be301aeaccec35d964bff4f426dd0e316c53810b44745134",
-          "bytes": 150013
+          "sha256": "91616054a286cac244c8495c7c987d4ca6f13251a7a92386e33be07a978134c5",
+          "bytes": 151673
         }
       },
-      "word_count_clean": 2152,
+      "word_count_clean": 2192,
       "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement.",
-      "latest_revision": "Attendance requires exactly one of attending in person or participating by shipment; removes undecided option. Section 6 identifies one Institutional Media and Content Agreement (v2), signed by the authorized mentor, with underlying permissions managed by Institution."
+      "latest_revision": "Section 6 now references safety v2, specifies covered activities and mentor-coordinated collection, exempts shipment-only team members unless they join those activities, and identifies the separate process for minors."
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."

@@ -1,0 +1,56 @@
+{
+  "current_version": "v2",
+  "versions": [
+    {
+      "version": "v2",
+      "baseline_sha256": "ba585353683fa5722e13e965ba1f53f0861b99f861938e33319d42d1ef16ab8c",
+      "reject_restores_baseline_text": true,
+      "accepted_tracked_text_matches_clean": true,
+      "changed_paragraphs": 9,
+      "word_count_clean": 482,
+      "remaining_placeholders": [
+        "[DATES]",
+        "[DETAILS]",
+        "[FULL NAME]",
+        "[NAME AND CONTACT]",
+        "[NAME]",
+        "[PRIVACY NOTICE URL OR ATTACHED NOTICE]"
+      ],
+      "baseline": "v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx",
+      "timestamp": "2026-11-18T08:59:09.153036-05:00",
+      "date": "2026-11-18",
+      "verification": {
+        "accepted_tracked_text_matches_clean": true,
+        "reject_restores_baseline_text": true,
+        "unique_revision_ids": true,
+        "all_pages_visually_reviewed": true,
+        "clean_pdf_pages": 1,
+        "redline_pdf_pages": 2,
+        "native_redline_pdf_pages": 2,
+        "no_checkboxes": true,
+        "font": "Times New Roman 11 point body; original page margins retained"
+      },
+      "title": "Participant Safety and Risk Acknowledgment",
+      "latest_revision": "Personal safety form for adults participating in covered activities; robots and mannequins; institutional payments and property claims preserved; unified privacy contact; minors require approved arrangements and required permissions.",
+      "deliverables": {
+        "v2/03_Participant_Safety_and_Risk_Acknowledgment_CLEAN.docx": {
+          "sha256": "e3f9a271fb84603f45ef92ca067903169703dc2de661f20a1348b7c95893db8f",
+          "bytes": 28801
+        },
+        "v2/03_Participant_Safety_and_Risk_Acknowledgment_CLEAN.pdf": {
+          "sha256": "c9e8c2d6ab2b94f2addf7978a91ab06af230ad4b0c81d65f9ec1660eab01300f",
+          "bytes": 53761
+        },
+        "v2/03_Participant_Safety_and_Risk_Acknowledgment_REDLINE.docx": {
+          "sha256": "7171de48111100b8764422fdb82a2f24eda7ea95f8ee21979e2278f4b7f7bd5d",
+          "bytes": 29814
+        },
+        "v2/03_Participant_Safety_and_Risk_Acknowledgment_REDLINE.pdf": {
+          "sha256": "79e68abe4aaff2fd88baf9092df4e0a84c970475bf20444b076ba3762a335f86",
+          "bytes": 78929
+        }
+      }
+    }
+  ],
+  "directory_layout": "Each agreement has independent version folders. Paths are relative to 03-safety-and-risk."
+}

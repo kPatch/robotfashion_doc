@@ -8,17 +8,19 @@ These are the current working drafts. Version numbers apply independently to eac
 | --- | --- | --- | --- |
 | Institutional media and content | [v2](01-media-and-content/v2/VERSION.txt) | [Word](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.docx) | [PDF](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.pdf) |
 | Participation and funding | [v4](02-participation-and-funding/v4/VERSION.txt) | [Word](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx) | [PDF](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf) |
-| Safety and risk | [v1](03-safety-and-risk/v1/VERSION.txt) | [Word](03-safety-and-risk/v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx) | [PDF](03-safety-and-risk/v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.pdf) |
+| Safety and risk | [v2](03-safety-and-risk/v2/VERSION.txt) | [Word](03-safety-and-risk/v2/03_Participant_Safety_and_Risk_Acknowledgment_CLEAN.docx) | [PDF](03-safety-and-risk/v2/03_Participant_Safety_and_Risk_Acknowledgment_CLEAN.pdf) |
 
 Current media review copies: [Word redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx) and [PDF redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf), comparing v2 against v1.
 
 Current participation review copies: [Word redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx) and [PDF redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf). Both compare the current v4 draft against v3.
 
+Current safety review copies: [Word redline](03-safety-and-risk/v2/03_Participant_Safety_and_Risk_Acknowledgment_REDLINE.docx) and [PDF redline](03-safety-and-risk/v2/03_Participant_Safety_and_Risk_Acknowledgment_REDLINE.pdf), comparing v2 against v1.
+
 ## Version history
 
 - Media and content: v1 and v2. Current v2 is one institutional agreement signed by the authorized team mentor; it has no individual consent checkboxes. Document 2 v4 references this agreement.
 - Participation and funding: v1, v2, v3 and v4. Current v4 requires one of two attendance choices: attending in person or participating by shipment. Each revised version includes a redline against its preceding version.
-- Safety and risk: v1.
+- Safety and risk: v1 and v2. Current v2 is a one-page acknowledgment signed by each adult before covered activities, with the mentor coordinating collection. Document 2 v4 now references safety v2. Shipment-only team members are exempt unless joining those activities.
 
 Each version folder contains the Word/PDF files and a VERSION.txt date/time record. The original v1 package timestamp and notes have been preserved for all three agreements.
 

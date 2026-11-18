@@ -1,7 +1,7 @@
 Version: v4
 Document: Institutional Participation and Funding Agreement
 Date: 2026-11-18
-Time: 01:56:46 EST (America/New_York)
+Time: 08:59:09 EST (America/New_York)
 Baseline: v3 clean version; redline shows all cumulative v4 changes against v3.
 
 Changes:
@@ -28,3 +28,9 @@ Institutional media and attendance update:
 - Requires exactly one attendance selection before signing: attending in person or participating by shipment. Removes the undecided option and its empty paragraph. The deleted option appears only as a historical deletion in the redline.
 - All other current v4 agreement wording, including payment amounts, fixed travel support without receipts, delivery, minimum garment loan and liability provisions, is unchanged by this update.
 - Redline remains cumulative against v3. Clean remains four pages and redline five pages. Acceptance/rejection comparisons pass and every final rendered page was visually reviewed.
+
+Safety consistency update:
+- Section 6 now identifies Participant Safety and Risk Acknowledgment (v2), signed by adults before covered activities, with Institution's mentor coordinating collection.
+- Covers garment handling, fittings, rehearsals, backstage work and robot interaction; shipment-only members are exempt unless joining these activities. Minors need Organizer-approved arrangements and legally required permissions.
+- All other current v4 agreement wording is unchanged in this update. Media remains v2. Redline stays cumulative against v3. Clean remains four pages; redline five pages.
+- Native tracked-change acceptance/rejection checks passed. Rendered pages 1 and 2 are identical to previously reviewed pages; all changed pages were visually reviewed.
