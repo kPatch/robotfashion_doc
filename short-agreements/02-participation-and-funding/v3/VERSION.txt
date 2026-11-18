@@ -1,0 +1,6 @@
+Version: v3
+Date: 2026-11-17
+Time: 23:58:38 EST (America/New_York)
+Timestamp source: latest saved Word/PDF file modification time for this version.
+
+Latest Document 2 revision. Includes clean and redlined Word and PDF files; the redline compares v3 with v2. Documents 1 and 3 remain in v1.

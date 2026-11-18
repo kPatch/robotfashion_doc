@@ -1,0 +1,98 @@
+{
+  "current_version": "v3",
+  "versions": [
+    {
+      "version": "v2",
+      "date": "2026-11-17",
+      "baseline": "v1/02_Institutional_Participation_and_Funding_Agreement_DRAFT.docx",
+      "baseline_sha256": "b1b756cb0ed341371ae2727ee928f15a67d048bb2a8f8924b9d040ff23d79d7d",
+      "tracked_insertions": 100,
+      "tracked_deletions": 72,
+      "rejection_restores_baseline_text": true,
+      "word_count_clean": 1771,
+      "remaining_placeholders": [
+        "[ADDRESS]",
+        "[CONFIRM FEBRUARY 13, 2027]",
+        "[DATE]",
+        "[DECISION DATE]",
+        "[INTERNATIONAL / US-BASED]",
+        "[JURISDICTION]",
+        "[LEGAL NAME AND COUNTRY]",
+        "[LOCATION]",
+        "[NAME AND EMAIL]",
+        "[VENUE]"
+      ],
+      "deliverables": {
+        "v2/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
+          "sha256": "dbfc8ede4c349fe0fb90530f4e5b606027bbffdebd4b69483d7dec1cab12d13b",
+          "bytes": 32716
+        },
+        "v2/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
+          "sha256": "d0378b091742d1e248ba8d29281f9ab16ff20b0f26e7795449938492fafee7d2",
+          "bytes": 84406
+        },
+        "v2/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
+          "sha256": "d3a97f704fcbf94ef64093fc81a12f43cc86c89b07f93a8826a2403b183867fb",
+          "bytes": 35264
+        },
+        "v2/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
+          "sha256": "d6ed2a7361f066bf21f1eafcbccdb235aa668ded517b10f33a3636ce77bf5446",
+          "bytes": 130794
+        }
+      },
+      "verification": {
+        "all_pages_visually_reviewed": true,
+        "clean_pdf_pages": 4,
+        "redline_pdf_pages": 5,
+        "accepted_tracked_text_matches_clean": true,
+        "redline_pdf": "Visible red strikethrough deletions and blue underlined insertions; Word file retains native tracked changes."
+      },
+      "timestamp": "2026-11-17T23:42:28.269181-05:00",
+      "timestamp_source": "Latest saved Word/PDF file modification time"
+    },
+    {
+      "version": "v3",
+      "baseline": "v2/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx",
+      "baseline_sha256": "dbfc8ede4c349fe0fb90530f4e5b606027bbffdebd4b69483d7dec1cab12d13b",
+      "reject_restores_baseline_text": true,
+      "changes": 12,
+      "remaining_placeholders": [
+        "[ADDRESS]",
+        "[EMAIL DATE OR ATTACHMENT]",
+        "[INTERNATIONAL / US-BASED]",
+        "[LEGAL NAME AND COUNTRY]",
+        "[NAME AND EMAIL]",
+        "[VENUE]"
+      ],
+      "date": "2026-11-17",
+      "verification": {
+        "all_pages_visually_reviewed": true,
+        "clean_pdf_pages": 4,
+        "redline_pdf_pages": 4,
+        "accepted_tracked_text_matches_clean": true,
+        "clean_render_identical_to_reviewed_pages": true
+      },
+      "deliverables": {
+        "v3/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
+          "sha256": "56ac2b814940f3b7851036c749564193c20b8c8d53668b6bccad29436fb214ba",
+          "bytes": 85463
+        },
+        "v3/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
+          "sha256": "3838afdfe0a89a3cb87d25ccd33578a6b2d59841d9143e22461028cf20e8e213",
+          "bytes": 33115
+        },
+        "v3/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
+          "sha256": "fc14817ea0d5ca22fdd850b92358bb8f66b55c7682dae675c4a4b63fdeb665a8",
+          "bytes": 33898
+        },
+        "v3/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
+          "sha256": "640c58808b52fc372f153dcb08cfac4d833438394e3c41efe55b10c46a38ef34",
+          "bytes": 104975
+        }
+      },
+      "timestamp": "2026-11-17T23:58:38.837957-05:00",
+      "timestamp_source": "Latest saved Word/PDF file modification time"
+    }
+  ],
+  "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."
+}
