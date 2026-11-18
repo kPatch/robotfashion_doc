@@ -1,7 +1,7 @@
 Version: v4
 Document: Institutional Participation and Funding Agreement
 Date: 2026-11-18
-Time: 09:11:07 EST (America/New_York)
+Time: 10:14:31 EST (America/New_York)
 Baseline: v3 clean version; redline shows all cumulative v4 changes against v3.
 
 Changes:
@@ -15,16 +15,16 @@ Changes:
 - Expressly includes ordinary monetary garment-loss claims in the existing aggregate liability cap, while preserving payment/refund duties, return obligations and the stated liability exceptions.
 - Removes ambiguous indemnity wording; specifies legally required insurance, with additional coverage requirements only by written agreement.
 - Clarifies cancellation requests without receipts, prior booking approval, and termination if disruption arrangements cannot be agreed within 30 days.
-- Clarifies LLC representative signature, identifies the media v2 and safety v1 forms, and requires both parties to sign an addendum identifying the provisions it modifies.
+- Clarifies LLC representative signature, identifies the media v2 and institutional safety v2 forms, and requires both parties to sign an addendum identifying the provisions it modifies.
 
 Contents: clean and redlined Word and PDF files. Clean: four pages. Redline: five pages. Word redline retains native tracked changes; PDF shows red struck-through deletions and blue underlined insertions.
 
 Verification: accepting tracked changes reproduces the clean text; rejecting them restores v3 body/table text. Every clean, native-redline and PDF-redline page was visually reviewed. No forced page break before Section 10. Signatures remain together.
 
-Version retained at v4 at the user's request. Earlier participation versions and Document 3 remain unchanged.
+Version retained at v4 at the user's request. Earlier participation versions remain unchanged.
 
 Institutional media and attendance update:
-- Section 6 now identifies one Institutional Media and Content Agreement (v2), signed by Institution's authorized mentor. Institution obtains and retains underlying permissions through its own process; individual team members need not sign separate copies of that institutional agreement.
+- Section 6 now identifies one Institutional Media and Content Agreement (v2), signed by Institution's authorized institutional representative. Institution obtains and retains underlying permissions through its own process; individual team members need not sign separate copies of that institutional agreement.
 - Requires exactly one attendance selection before signing: attending in person or participating by shipment. Removes the undecided option and its empty paragraph. The deleted option appears only as a historical deletion in the redline.
 - All other current v4 agreement wording, including payment amounts, fixed travel support without receipts, delivery, minimum garment loan and liability provisions, is unchanged by this update.
 - Redline remains cumulative against v3. Clean remains four pages and redline five pages. Acceptance/rejection comparisons pass and every final rendered page was visually reviewed.
@@ -36,7 +36,14 @@ Earlier safety consistency update (superseded below):
 - Native tracked-change acceptance/rejection checks passed. Rendered pages 1 and 2 are identical to previously reviewed pages; all changed pages were visually reviewed.
 
 Current institutional safety update:
-- Section 6 now identifies Institutional Safety and Conduct Agreement (v2), signed once for Institution by its authorized mentor or another authorized institutional representative.
+- Section 6 now identifies Institutional Safety and Conduct Agreement (v2), signed once for Institution by its authorized institutional representative.
 - Removes the individual adult safety-signature and collection requirements. Institution manages team briefings, supervision and compliance; minors still need Organizer-approved arrangements and legally required permissions.
 - Supersedes the earlier personal safety-form approach described above. All other current v4 wording is unchanged. Document 1 remains v2.
 - Redline remains cumulative against v3. Clean: four pages. Redline: five pages. Native tracked-change acceptance/rejection checks passed and every rendered page was visually reviewed.
+
+Latest signing-role update (current wording supersedes earlier signing descriptions):
+- Authorized institutional representative signs for Institution and confirms authority, solely in that capacity and without a personal guarantee. Mentor remains the coordination contact and need not be the signer.
+- The institution may arrange signature through its department chair, dean or another representative with authority; no specific institutional job title is prescribed.
+- Institutional signer wording, mentor coordination-contact fields and signature blocks. Section 6 aligned with media and safety agreements; formal-notice recipients distinguished from mentor contact. Other substantive agreement terms remain unchanged in this update.
+- All three current versions updated together: media v2, participation v4 and institutional safety v2. No new version numbers.
+- Clean and redlined Word/PDF copies regenerated. Existing redline baselines retained. Native tracked-change acceptance/rejection checks passed; every final rendered page was visually reviewed.

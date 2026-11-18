@@ -1,8 +1,8 @@
 # Short agreements — current versions
 
-Index updated: November 18, 2026 at 09:11:07 EST (America/New_York).
+Index updated: November 18, 2026 at 10:32:06 EST (America/New_York).
 
-These are the current working drafts. Version numbers apply independently to each document; an unchanged agreement keeps its existing version.
+These are the current working drafts. Each institution signs through an authorized institutional representative. The mentor is the coordination contact and need not be the signer. Version numbers apply independently to each document; an unchanged agreement keeps its existing version.
 
 | Agreement | Current version and notes | Word | PDF |
 | --- | --- | --- | --- |
@@ -18,9 +18,9 @@ Current safety review copies: [Word redline](03-safety-and-risk/v2/03_Institutio
 
 ## Version history
 
-- Media and content: v1 and v2. Current v2 is one institutional agreement signed by the authorized team mentor; it has no individual consent checkboxes. Document 2 v4 references this agreement.
+- Media and content: v1 and v2. Current v2 is one institutional agreement signed by an authorized institutional representative; the mentor remains the coordination contact; it has no individual consent checkboxes. Credit details are coordinated through the mentor by email without amending the agreement. Document 2 v4 references this agreement.
 - Participation and funding: v1, v2, v3 and v4. Current v4 requires one of two attendance choices: attending in person or participating by shipment. Each revised version includes a redline against its preceding version.
-- Safety and conduct: v1 and v2. Current v2 is a one-page institutional agreement signed once by the authorized mentor or another authorized institutional representative. Institution manages team safety briefings, supervision and compliance; individual signatures and releases are not required. Document 2 v4 references this institutional safety agreement.
+- Safety and conduct: v1 and v2. Current v2 is a one-page institutional agreement signed once by an authorized institutional representative; the mentor remains the coordination contact. Institution manages team safety briefings, supervision and compliance; individual signatures and releases are not required. Document 2 v4 references this institutional safety agreement.
 
 Each version folder contains the Word/PDF files and a VERSION.txt date/time record. The original v1 package timestamp and notes have been preserved for all three agreements.
 

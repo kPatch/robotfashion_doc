@@ -1,13 +1,13 @@
 Version: v2
 Document: Institutional Media and Content Agreement
 Date: 2026-11-18
-Time: 08:51:23 EST (America/New_York)
+Time: 10:32:06 EST (America/New_York)
 Baseline: v1 draft. Redline compares the current v2 against v1.
 
 Changes:
 - Uses the 2026 design-consultation garment looks and agreed accessories described in Document 2, plus related materials supplied before or after signing. Removes the separate materials-list placeholder and repeat confirmation requirement for additional submissions.
 - Requires Institution's written approval for logo use and compliance with its supplied brand guidelines, without a materials-list cross-reference.
-- Replaces the individual/organization form with one institutional agreement signed by the team mentor authorized to bind Institution. Neither signer gives a personal guarantee.
+- Replaces the individual/organization form with one institutional agreement signed by an authorized institutional representative. Neither signer gives a personal guarantee.
 - Removes all individual consent checkboxes and individual signature instructions. Institution obtains underlying creator and likeness permissions through its own process, retains records, confirms clearance and restrictions, and reports withdrawals or changes.
 - Limits the license to rights Institution owns or is authorized to license. Underlying permissions must cover Robot Fashion LLC and the stated Project uses, including required permissions for minors.
 - Preserves the agreed Project uses, editing permissions, credits, logo approvals, ownership and restrictions on unrelated endorsements, merchandise, manufacturing, AI training and synthetic replicas.
@@ -18,8 +18,22 @@ Changes:
 
 Contents: clean and redlined Word and PDF files. Clean: two pages. Redline: three pages. Word redline contains native tracked changes. PDF redline shows red struck-through deletions and blue underlined insertions. Deleted checkboxes appear only as historical deletions in review copies.
 
-Verification: accepting tracked changes reproduces the clean text; rejecting them restores v1 body text, normalizing the redline signature-name row's two cells to the original tabbed line. Every final clean, native-redline and PDF-redline page was visually reviewed. Document 2 stays v4 and refers to this institutional media v2 agreement. The safety form remains v1.
+Verification: accepting tracked changes reproduces the clean text; rejecting them restores v1 body text, normalizing the redline signature-name row's two cells to the original tabbed line. Every final clean, native-redline and PDF-redline page was visually reviewed. Document 2 stays v4 and refers to this institutional media v2 agreement. The institutional safety agreement is now v2.
 
 Version retained at v2 at the user's request. Earlier baselines remain unchanged.
 
-Latest update within v2: only the materials description and logo clause changed in the agreement text. Clean and redline copies were regenerated; native tracked-change acceptance and rejection checks passed and all rendered pages were reviewed. Document 2 and all earlier baselines are unchanged by this update.
+Earlier update within v2: only the materials description and logo clause changed in the agreement text. Clean and redline copies were regenerated; native tracked-change acceptance and rejection checks passed and all rendered pages were reviewed. Document 2 and all earlier baselines are unchanged by this update.
+
+Latest signing-role update (current wording supersedes earlier signing descriptions):
+- Authorized institutional representative signs for Institution and confirms authority, solely in that capacity and without a personal guarantee. Mentor remains the coordination contact and need not be the signer.
+- The institution may arrange signature through its department chair, dean or another representative with authority; no specific institutional job title is prescribed.
+- Institutional signer wording, mentor coordination-contact fields and signature blocks. Other substantive agreement terms remain unchanged in this update.
+- All three current versions updated together: media v2, participation v4 and institutional safety v2. No new version numbers.
+- Clean and redlined Word/PDF copies regenerated. Existing redline baselines retained. Native tracked-change acceptance/rejection checks passed; every final rendered page was visually reviewed.
+
+Latest credit-coordination update within v2:
+- Replaces [CREDIT DETAILS] and the preceding credit/correction sentences with the agreed email coordination process through Institution's team mentor. Credit information may be updated by email without amending the agreement.
+- Organizer uses reasonable efforts to include credits considering format and space, corrects controlled materials where practicable after notice, and uses corrected information in future publications.
+- Retains the remaining respectful-use and publicity wording. No other agreement text changed. Documents 2 and 3 unchanged in this update.
+- Modestly reduces paragraph spacing on clean page 2 to keep the signature block on that page; Times New Roman typography and margins preserved. Clean: two pages. Redline: three pages.
+- Redline remains cumulative v2 against v1; the removed placeholder appears only as deleted text. Native tracked-change acceptance/rejection checks passed; all final rendered pages reviewed.

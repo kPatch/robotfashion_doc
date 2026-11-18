@@ -98,7 +98,7 @@
       "baseline": "v3/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx",
       "baseline_sha256": "3838afdfe0a89a3cb87d25ccd33578a6b2d59841d9143e22461028cf20e8e213",
       "reject_restores_baseline_text": true,
-      "changes": 26,
+      "changes": 29,
       "remaining_placeholders": [
         "[ADDRESS]",
         "[EMAIL DATE OR ATTACHMENT]",
@@ -107,7 +107,7 @@
         "[NAME AND EMAIL]",
         "[VENUE]"
       ],
-      "timestamp": "2026-11-18T09:11:07.114783-05:00",
+      "timestamp": "2026-11-18T10:14:31.142753-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -124,30 +124,40 @@
         "unique_revision_ids": true,
         "active_attendance_checkbox_count": 2,
         "no_undecided_attendance_option": true,
-        "latest_agreement_text_changes_only": "Section 6 safety-agreement reference and institutional signing and coordination instructions. All other current v4 text is unchanged.",
-        "safety_reference_v2": true
+        "latest_agreement_text_changes_only": "Institutional signer wording, mentor coordination-contact fields and signature blocks. Section 6 aligned with media and safety agreements; formal-notice recipients distinguished from mentor contact.",
+        "safety_reference_v2": true,
+        "latest_changed_body_paragraphs_zero_based": [
+          3,
+          29,
+          46,
+          47,
+          48
+        ],
+        "institutional_signer_and_mentor_contact_separated": true,
+        "authorized_institutional_representative_signature": true,
+        "latest_text_changes_only": "Institutional signer wording, mentor coordination-contact fields and signature blocks. Section 6 aligned with media and safety agreements; formal-notice recipients distinguished from mentor contact."
       },
       "deliverables": {
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
-          "sha256": "712e21d67a1e4b53084548aafa370922149234e1ab42bae3682db678bb3bb3d5",
-          "bytes": 33948
+          "sha256": "98dff3f2160c9b742657319d2aba16a2a0f037602ce68d30c4d42e0cf83cfc0c",
+          "bytes": 34089
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
-          "sha256": "f1ec22834fadf5cd3134583b1be9ce890a9d475becaca689a773d9931cd3c37d",
-          "bytes": 87607
+          "sha256": "3d9a214ca2f765b33ec1a917db142b505875ac1abc35129aee64012a912864fd",
+          "bytes": 87820
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
-          "sha256": "6e6f52a1c2d7f0b1b09bd4b60d9e6dcb3a35fac5d333642e6ca4b3499d99aa58",
-          "bytes": 37055
+          "sha256": "b7c1b5f902503b86bdda1be41dab92d8b0b41ecc21ec3b54051bd20369f55b48",
+          "bytes": 37298
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
-          "sha256": "06280e2f46d8c674944f8021aaf6c1443486bf75269cdba499ce24c702dd6621",
-          "bytes": 151262
+          "sha256": "14513419268883ee1d5931cab4a6b4b4a1befd18579e82c4ba6ed0996e1ebf48",
+          "bytes": 153902
         }
       },
-      "word_count_clean": 2185,
+      "word_count_clean": 2234,
       "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement.",
-      "latest_revision": "Section 6 requires one Institutional Safety and Conduct Agreement (v2), signed by the authorized mentor or another authorized institutional representative. Individual safety signatures and collection requirements removed; team supervision, briefings and compliance managed by Institution."
+      "latest_revision": "Authorized institutional representative signs for Institution and confirms authority, solely in that capacity and without a personal guarantee. Mentor remains the coordination contact and need not be the signer."
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."

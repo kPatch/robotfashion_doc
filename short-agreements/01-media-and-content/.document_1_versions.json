@@ -7,16 +7,15 @@
       "baseline_sha256": "d03dba3c6799fcb4ac4f3cc8db31174f3bf2e98e80345a2b4416de46cade9588",
       "reject_restores_baseline_text": true,
       "accepted_tracked_text_matches_clean": true,
-      "changed_paragraphs": 19,
-      "word_count_clean": 836,
+      "changed_paragraphs": 20,
+      "word_count_clean": 917,
       "remaining_placeholders": [
-        "[CREDIT DETAILS]",
         "[EMAIL]",
         "[LEGAL NAME AND COUNTRY]",
         "[NAME]",
         "[PRIVACY NOTICE URL OR ATTACHED NOTICE]"
       ],
-      "timestamp": "2026-11-18T08:51:23.656550-05:00",
+      "timestamp": "2026-11-18T10:32:06.719751-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -27,31 +26,36 @@
         "native_redline_pdf_pages": 3,
         "unique_revision_ids": true,
         "no_consent_checkboxes": true,
-        "institutional_mentor_signature": true,
         "signature_review_layout": "The redline uses two cells for the signature-name row to keep old and new wording within their respective columns; body-text comparisons normalize that row to a tab.",
         "materials_placeholder_removed": true,
-        "latest_text_changes_only": "Section 1 materials description and section 4 logo clause"
+        "latest_text_changes_only": "Section 5 credit-coordination wording; other agreement text unchanged.",
+        "latest_changed_body_paragraphs_zero_based": [
+          16
+        ],
+        "institutional_signer_and_mentor_contact_separated": true,
+        "authorized_institutional_representative_signature": true,
+        "credit_placeholder_removed": true
       },
       "deliverables": {
         "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.docx": {
-          "sha256": "9ae3d39a42871cd52c8772c981a68ec48d59bfdb6c180bcfb2e56cb533d76390",
-          "bytes": 30030
+          "sha256": "b3b21b90944b224b46cce5f767f20ab73608cf03dfbf26ea410a4e15a02e9be1",
+          "bytes": 30298
         },
         "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.pdf": {
-          "sha256": "94dc35e29e1f5dc9c1e2dc1103b3f7707a2a8557483f5f561bb4638bcfc7d04d",
-          "bytes": 62769
+          "sha256": "d63521db25476af86e0e4f103077ca124ff89938a92bc1b7787a11e75da65191",
+          "bytes": 63366
         },
         "v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx": {
-          "sha256": "986411b29465d261605e52bf338d4074d93d303b688b3e037467bec7870404d4",
-          "bytes": 32548
+          "sha256": "ea5c16fd91eff52b4b342fce2063c7d1ef743d22229ff4e37bc3420d09bb89a3",
+          "bytes": 32901
         },
         "v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf": {
-          "sha256": "bca4db4570134a16a9abaed102bd7603d7a402ac1ef4d38ac6863a130bfea567",
-          "bytes": 110205
+          "sha256": "e15a373e47870cb1a682afecfe8f48337baa90aa8c386e8bc4f8e19197312864",
+          "bytes": 113317
         }
       },
       "title": "Institutional Media and Content Agreement",
-      "latest_revision": "Section 1 now covers 2026 consultation garment looks and agreed accessories, as described in Document 2, plus related materials supplied before or after signing. Removes the separate materials-list placeholder and repeat confirmation requirement. Logo use requires institutional written approval and supplied brand guidelines."
+      "latest_revision": "Section 5 replaces the credit-details placeholder with mentor-coordinated credit information by email, updates without amendment, reasonable credit efforts suited to format and space, and corrections to controlled materials where practicable and future publications."
     }
   ],
   "directory_layout": "Paths are relative to 01-media-and-content; v1 remains unchanged."

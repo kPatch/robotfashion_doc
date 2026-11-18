@@ -6,13 +6,14 @@
       "baseline_sha256": "ba585353683fa5722e13e965ba1f53f0861b99f861938e33319d42d1ef16ab8c",
       "reject_restores_baseline_text": true,
       "accepted_tracked_text_matches_clean": true,
-      "changed_paragraphs": 16,
-      "word_count_clean": 419,
+      "changed_paragraphs": 15,
+      "word_count_clean": 446,
       "remaining_placeholders": [
-        "[LEGAL NAME AND COUNTRY]"
+        "[LEGAL NAME AND COUNTRY]",
+        "[NAME AND EMAIL]"
       ],
       "baseline": "v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx",
-      "timestamp": "2026-11-18T09:11:07.114783-05:00",
+      "timestamp": "2026-11-18T10:14:31.142753-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -25,26 +26,36 @@
         "no_checkboxes": true,
         "font": "Times New Roman 11 point body; original page margins retained",
         "one_institutional_signature": true,
-        "no_individual_release": true
+        "no_individual_release": true,
+        "latest_changed_body_paragraphs_zero_based": [
+          2,
+          3,
+          13,
+          14,
+          15
+        ],
+        "institutional_signer_and_mentor_contact_separated": true,
+        "authorized_institutional_representative_signature": true,
+        "latest_text_changes_only": "Institutional signer wording, mentor coordination-contact fields and signature blocks."
       },
       "title": "Institutional Safety and Conduct Agreement",
-      "latest_revision": "One institutional safety and conduct agreement signed by the authorized mentor or institutional representative; no individual signatures or releases; institutional briefings, supervision and coordination; on-site safety contact supplied operationally; responsibility and disputes aligned with Document 2.",
+      "latest_revision": "Authorized institutional representative signs for Institution and confirms authority, solely in that capacity and without a personal guarantee. Mentor remains the coordination contact and need not be the signer.",
       "deliverables": {
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx": {
-          "sha256": "26a39ce984a37b71f3c4fe42f3d4f436f1b36aa422145a285d93cb25a3d0c06c",
-          "bytes": 28600
+          "sha256": "d22e93bbf492e0a26cd31cc257155fbece99e6cda8729334dd31535b7b09c2cf",
+          "bytes": 28697
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.pdf": {
-          "sha256": "f83211f1eb495e0965d5679ade37f599da5f4f618d8eb60f33db13a071765f7c",
-          "bytes": 53512
+          "sha256": "c93aa8f2a298cb2026ad9f481b5cb2d8c88c676a1d8a83ed342b8f96b85773a9",
+          "bytes": 53669
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx": {
-          "sha256": "bdec87e0f9629618686970026718b513f3f558c3312d5fafc03e47542df897a4",
-          "bytes": 30389
+          "sha256": "50e34accc266a6b4584f0a868adf2d30e0386b9aaac467c8d47603b41547fd4b",
+          "bytes": 30535
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.pdf": {
-          "sha256": "a7db359c4990e603aa30330d4ff63de503f743a332a011b4d30e0f69d94ad263",
-          "bytes": 88354
+          "sha256": "86d6940abd44c944fb0a7bbecb4b072e4b1b01154b25ec9d1214517a0b1a5696",
+          "bytes": 90524
         }
       }
     }
