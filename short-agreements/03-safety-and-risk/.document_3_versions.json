@@ -10,7 +10,7 @@
       "word_count_clean": 481,
       "remaining_placeholders": [],
       "baseline": "v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx",
-      "timestamp": "2026-11-18T13:06:19.529564-05:00",
+      "timestamp": "2026-11-18T13:07:55.365243-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
@@ -38,18 +38,19 @@
         "latest_agreement_text_changes_only": "Replaced bracketed drafting placeholders with separately labeled completion lines. Standardized institution legal name, country, mentor name/email, signer name/title and date format. Clarified who completes each field; current version retained.",
         "bracketed_placeholders_replaced_with_labeled_blanks": true,
         "no_forced_page_break_before_section_4": true,
-        "layout_only_text_unchanged": true
+        "layout_only_text_unchanged": true,
+        "section_5_follows_section_4_on_same_page": true
       },
       "title": "Institutional Safety and Conduct Agreement",
-      "latest_revision": "Removed the forced page break before Section 4. Section 4 now follows Section 3; Section 5 stays with the institutional signature block. Layout only; agreement text and version unchanged.",
+      "latest_revision": "Removed the keep-with-next setting connecting Section 5 body text to the signature block. Sections 4 and 5 now flow consecutively on page 1; the signature block stays together on page 2. Text and v2 unchanged.",
       "deliverables": {
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx": {
-          "sha256": "5c08603c6dd22c3061a01be578781a428539660b3ebdda628fba603d13d43d92",
-          "bytes": 28778
+          "sha256": "c92952c75c0c605fc0ecd36da350d4ccd05443693abe77d5f57679995b471e01",
+          "bytes": 28776
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.pdf": {
-          "sha256": "534cf7ce4d5096fdee7b0d8dc1d77d0977f6fe1630bdb679cf5ae802d973164f",
-          "bytes": 54422
+          "sha256": "1edbeec23cce27a0d88e442eb7e2c16d37173aa1507cc1f545a9dc97c35c3bfa",
+          "bytes": 54316
         },
         "v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx": {
           "sha256": "a34657812dfa29a29e159897f3d2c9ec39003f609880ce31ebd04e4e7e6231d4",

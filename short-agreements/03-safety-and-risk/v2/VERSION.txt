@@ -38,3 +38,7 @@ Completion-field update — 2026-11-18 12:55:04 EST:
 Layout correction — 2026-11-18 13:06:19 EST:
 - Removed the forced page break before Section 4. Section 4 now follows Section 3; Section 5 stays with the institutional signature block. Layout only; agreement text and version unchanged.
 - Clean Word and PDF regenerated and both pages visually checked. Existing cumulative redline has no corresponding forced break and remains unchanged.
+
+Pagination correction — 2026-11-18 13:07:55 EST:
+- Removed the keep-with-next setting connecting Section 5 body text to the signature block. Sections 4 and 5 now flow consecutively on page 1; the signature block stays together on page 2. Text and v2 unchanged.
+- Both clean pages rendered and visually verified. This supersedes the prior instruction to keep Section 5 with the signature block.
