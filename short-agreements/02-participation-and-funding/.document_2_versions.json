@@ -1,5 +1,5 @@
 {
-  "current_version": "v3",
+  "current_version": "v4",
   "versions": [
     {
       "version": "v2",
@@ -92,6 +92,51 @@
       },
       "timestamp": "2026-11-17T23:58:38.837957-05:00",
       "timestamp_source": "Latest saved Word/PDF file modification time"
+    },
+    {
+      "version": "v4",
+      "baseline": "v3/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx",
+      "baseline_sha256": "3838afdfe0a89a3cb87d25ccd33578a6b2d59841d9143e22461028cf20e8e213",
+      "reject_restores_baseline_text": true,
+      "changes": 10,
+      "remaining_placeholders": [
+        "[ADDRESS]",
+        "[EMAIL DATE OR ATTACHMENT]",
+        "[INTERNATIONAL / US-BASED]",
+        "[LEGAL NAME AND COUNTRY]",
+        "[NAME AND EMAIL]",
+        "[VENUE]"
+      ],
+      "timestamp": "2026-11-18T01:08:31.857641-05:00",
+      "date": "2026-11-18",
+      "verification": {
+        "accepted_tracked_text_matches_clean": true,
+        "latest_payment_wording_preserved": true,
+        "all_pages_visually_reviewed": true,
+        "clean_render_changes_only_version_digits": true,
+        "clean_pdf_pages": 4,
+        "redline_pdf_pages": 4,
+        "redline_layout": "Removed forced page break before Section 10; four pages with signature block together.",
+        "layout_edit_preserves_wording_and_tracked_changes": true
+      },
+      "deliverables": {
+        "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
+          "sha256": "f5ee6a2ee43929ea9ac4a7daccb441c26d8bf6c3e73edb2fc5afdf5c96e03607",
+          "bytes": 108493
+        },
+        "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
+          "sha256": "8432d15d1919adf0fac2f36a6f494d1b703f6770b0f048201a53c9a10e499f98",
+          "bytes": 34172
+        },
+        "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
+          "sha256": "2bae2105aed57412780f521585f39f47abc7c27df915ccb8f410c1a2f81c6eb3",
+          "bytes": 85058
+        },
+        "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
+          "sha256": "027f084786f21081194763d01b194bd2793840be62546a83f18c536aae2598f9",
+          "bytes": 33030
+        }
+      }
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."

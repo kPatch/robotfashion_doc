@@ -1,0 +1,18 @@
+Version: v4
+Document: Institutional Participation and Funding Agreement
+Date: 2026-11-18
+Time: 01:08:31 EST (America/New_York)
+Baseline: v3 clean version
+
+Changes:
+- Travel support is a fixed payment earned by attendance: $5,000 per international institution or $2,500 per US-based institution, regardless of actual travel costs or number of travelers.
+- Institutions request the payment by email within 30 days after the Event. No itemized expense statement, receipts or currency-conversion documentation is required.
+- Organizer pays within 30 days after receiving the request and required payment details. Previously supplied details need not be resubmitted unless changed.
+- Updates the payment table, introduction, travel-support clause, cancellation cross-reference, liability cap terminology and entire-agreement clause consistently.
+- Retains existing protection for preapproved nonrefundable cancellation costs. Any cancellation-cost reimbursement already paid is credited toward the fixed support if the institution attends.
+
+Contents: clean and redlined Word and PDF files. Clean version: four pages. Redline: four pages. The Word redline contains tracked changes against v3; the redline PDF displays deletions and insertions.
+
+This version incorporates the payment clarifications within the same drafting round.
+
+Layout correction: Removed the forced page break before Section 10 and reduced paragraph and heading spacing in the redline. Font, wording and tracked changes are unchanged; signatures remain together.
