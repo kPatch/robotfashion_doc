@@ -98,7 +98,7 @@
       "baseline": "v3/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx",
       "baseline_sha256": "3838afdfe0a89a3cb87d25ccd33578a6b2d59841d9143e22461028cf20e8e213",
       "reject_restores_baseline_text": true,
-      "changes": 10,
+      "changes": 24,
       "remaining_placeholders": [
         "[ADDRESS]",
         "[EMAIL DATE OR ATTACHMENT]",
@@ -107,36 +107,40 @@
         "[NAME AND EMAIL]",
         "[VENUE]"
       ],
-      "timestamp": "2026-11-18T01:08:31.857641-05:00",
+      "timestamp": "2026-11-18T01:19:42.413898-05:00",
       "date": "2026-11-18",
       "verification": {
         "accepted_tracked_text_matches_clean": true,
-        "latest_payment_wording_preserved": true,
+        "reject_restores_baseline_text": true,
         "all_pages_visually_reviewed": true,
-        "clean_render_changes_only_version_digits": true,
         "clean_pdf_pages": 4,
-        "redline_pdf_pages": 4,
-        "redline_layout": "Removed forced page break before Section 10; four pages with signature block together.",
-        "layout_edit_preserves_wording_and_tracked_changes": true
+        "redline_pdf_pages": 5,
+        "native_redline_pdf_pages": 5,
+        "no_forced_page_break_before_section_10": true,
+        "fixed_travel_support_without_receipts_preserved": true,
+        "minimum_loan_continues_until_return_notice": true,
+        "redline_pdf": "Visible red strikethrough deletions and blue underlined insertions; Word retains native tracked changes."
       },
       "deliverables": {
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf": {
-          "sha256": "f5ee6a2ee43929ea9ac4a7daccb441c26d8bf6c3e73edb2fc5afdf5c96e03607",
-          "bytes": 108493
+          "sha256": "d04d11285b3af7520f95aaef2e5b9ec5af59a61951e7f4fe25e79832ccde28a4",
+          "bytes": 148685
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx": {
-          "sha256": "8432d15d1919adf0fac2f36a6f494d1b703f6770b0f048201a53c9a10e499f98",
-          "bytes": 34172
+          "sha256": "b33684f98e2634851432d8ab30f4b2b7ea669cfd2cc75dfd348a11423c32aabb",
+          "bytes": 36753
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf": {
-          "sha256": "2bae2105aed57412780f521585f39f47abc7c27df915ccb8f410c1a2f81c6eb3",
-          "bytes": 85058
+          "sha256": "0243bc651c0c37e21294a1dfea92b4ae65622843f66d0bd35efbbe5417099fae",
+          "bytes": 87253
         },
         "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx": {
-          "sha256": "027f084786f21081194763d01b194bd2793840be62546a83f18c536aae2598f9",
-          "bytes": 33030
+          "sha256": "dbb48b718d7f9453c741ba668d7216fa78f50fe39472e1fc4fea8c05c25cfa33",
+          "bytes": 33829
         }
-      }
+      },
+      "word_count_clean": 2125,
+      "drafting_revision": "Legal-clarity fixes applied within v4; six-month minimum followed by return on notice, longer guaranteed term by agreement."
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."

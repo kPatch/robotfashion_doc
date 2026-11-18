@@ -1,18 +1,24 @@
 Version: v4
 Document: Institutional Participation and Funding Agreement
 Date: 2026-11-18
-Time: 01:08:31 EST (America/New_York)
-Baseline: v3 clean version
+Time: 01:19:42 EST (America/New_York)
+Baseline: v3 clean version; redline shows all cumulative v4 changes against v3.
 
 Changes:
-- Travel support is a fixed payment earned by attendance: $5,000 per international institution or $2,500 per US-based institution, regardless of actual travel costs or number of travelers.
-- Institutions request the payment by email within 30 days after the Event. No itemized expense statement, receipts or currency-conversion documentation is required.
-- Organizer pays within 30 days after receiving the request and required payment details. Previously supplied details need not be resubmitted unless changed.
-- Updates the payment table, introduction, travel-support clause, cancellation cross-reference, liability cap terminology and entire-agreement clause consistently.
-- Retains existing protection for preapproved nonrefundable cancellation costs. Any cancellation-cost reimbursement already paid is credited toward the fixed support if the institution attends.
+- Retains fixed travel support after attendance: $5,000 per international institution or $2,500 per US-based institution, regardless of actual costs or number of travelers. No receipts or itemized expense statement required.
+- Defines attendance as at least one designated institutional team representative participating in person. A late payment request does not forfeit earned support.
+- Clarifies that participation funds are an advance earned by completion and delivery, subject to cancellation and reconciliation provisions. Uses a consistent reconciliation standard.
+- Incorporates the agreed design summary and preserves ownership with existing owners.
+- Establishes a minimum loan period ending six months after the later of delivery and the scheduled Event date. The loan then continues until return on 30 days' written notice; a longer guaranteed period requires written agreement. This implements the user's express selection.
+- Defines Organizer's reasonable-care period from acceptance by Organizer or its designated receiving staff, including at the Kent State delivery address, through arranged storage and handling until properly packed return-carrier handover.
+- Clarifies packing responsibilities, carrier-loss treatment and cooperation with carrier claims.
+- Expressly includes ordinary monetary garment-loss claims in the existing aggregate liability cap, while preserving payment/refund duties, return obligations and the stated liability exceptions.
+- Removes ambiguous indemnity wording; specifies legally required insurance, with additional coverage requirements only by written agreement.
+- Clarifies cancellation requests without receipts, prior booking approval, and termination if disruption arrangements cannot be agreed within 30 days.
+- Clarifies LLC representative signature, identifies the media/safety v1 forms, and requires both parties to sign an addendum identifying the provisions it modifies.
 
-Contents: clean and redlined Word and PDF files. Clean version: four pages. Redline: four pages. The Word redline contains tracked changes against v3; the redline PDF displays deletions and insertions.
+Contents: clean and redlined Word and PDF files. Clean: four pages. Redline: five pages. Word redline retains native tracked changes; PDF shows red struck-through deletions and blue underlined insertions.
 
-This version incorporates the payment clarifications within the same drafting round.
+Verification: accepting tracked changes reproduces the clean text; rejecting them restores v3 body/table text. Every clean, native-redline and PDF-redline page was visually reviewed. No forced page break before Section 10. Signatures remain together.
 
-Layout correction: Removed the forced page break before Section 10 and reduced paragraph and heading spacing in the redline. Font, wording and tracked changes are unchanged; signatures remain together.
+Version retained at v4 at the user's request. Earlier versions and Documents 1 and 3 remain unchanged.

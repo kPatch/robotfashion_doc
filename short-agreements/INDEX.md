@@ -10,6 +10,8 @@ These are the current working drafts. Version numbers apply independently to eac
 | Participation and funding | [v4](02-participation-and-funding/v4/VERSION.txt) | [Word](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx) | [PDF](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf) |
 | Safety and risk | [v1](03-safety-and-risk/v1/VERSION.txt) | [Word](03-safety-and-risk/v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.docx) | [PDF](03-safety-and-risk/v1/03_Participant_Safety_and_Risk_Acknowledgment_DRAFT.pdf) |
 
+Current participation review copies: [Word redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx) and [PDF redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf). Both compare the current v4 draft against v3.
+
 ## Version history
 
 - Media and content: v1.
