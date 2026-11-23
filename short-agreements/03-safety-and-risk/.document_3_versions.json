@@ -1,5 +1,5 @@
 {
-  "current_version": "v2",
+  "current_version": "v3",
   "versions": [
     {
       "version": "v2",
@@ -74,6 +74,35 @@
         "Institutional signer title/position",
         "Signatures and dates"
       ]
+    },
+    {
+      "version": "v3",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T07:22:44.168415-05:00",
+      "baseline": "v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx",
+      "baseline_sha256": "2d5bc30eab5a18afa8072ea52f4af12417e68d6fbc8ec3c7ca5fbc97f4c4fd1c",
+      "latest_revision": "Removed the draft review header and the internal CLEAN footer label. Updated the footer version on every page.",
+      "status": "Signature template",
+      "pages": 1,
+      "remaining_completion_fields": [
+        "Institution legal name",
+        "Institution country",
+        "Team mentor name",
+        "Mentor email",
+        "Institutional signer full name",
+        "Institutional signer title/position",
+        "Signatures and dates"
+      ],
+      "deliverables": {
+        "v3/03_Institutional_Safety_and_Conduct_Agreement.docx": {
+          "sha256": "6b0dfde94412eda12e279af3d19a11c69a37f01300bd04f6b7cd78beff1d6b11",
+          "bytes": 28948
+        },
+        "v3/03_Institutional_Safety_and_Conduct_Agreement.pdf": {
+          "sha256": "73ec42aca1333cc56804b43c5fd04c1c68f8274051f02d571cd47fed2c556681",
+          "bytes": 51282
+        }
+      }
     }
   ],
   "directory_layout": "Each agreement has independent version folders. Paths are relative to 03-safety-and-risk."

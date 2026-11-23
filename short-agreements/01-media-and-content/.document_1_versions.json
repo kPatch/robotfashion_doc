@@ -1,5 +1,5 @@
 {
-  "current_version": "v2",
+  "current_version": "v3",
   "versions": [
     {
       "version": "v2",
@@ -69,6 +69,35 @@
         "Institutional signer title/position",
         "Signatures and dates"
       ]
+    },
+    {
+      "version": "v3",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T07:22:44.168415-05:00",
+      "baseline": "v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.docx",
+      "baseline_sha256": "881c040a9e6b709ebb351dab09f5fb7ea70605c30d24208c525e03dc7d5bfbb4",
+      "latest_revision": "Removed the draft review header and the internal CLEAN footer label. Updated the footer version on every page.",
+      "status": "Signature template",
+      "pages": 2,
+      "remaining_completion_fields": [
+        "Institution legal name",
+        "Institution country",
+        "Team mentor name",
+        "Mentor email",
+        "Institutional signer full name",
+        "Institutional signer title/position",
+        "Signatures and dates"
+      ],
+      "deliverables": {
+        "v3/01_Media_and_Content_License_and_Likeness_Release.docx": {
+          "sha256": "bdf08f66edf7447960f94ff0e435cd99fe7c5ff58dd76c0b153310a41d95b0a1",
+          "bytes": 30336
+        },
+        "v3/01_Media_and_Content_License_and_Likeness_Release.pdf": {
+          "sha256": "fb3a8a5657d7e5a8a6c9ca886114c45018e354cd30b19979c0f34ade742d755d",
+          "bytes": 63330
+        }
+      }
     }
   ],
   "directory_layout": "Paths are relative to 01-media-and-content; v1 remains unchanged."

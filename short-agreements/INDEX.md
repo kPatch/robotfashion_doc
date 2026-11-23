@@ -1,20 +1,20 @@
 # Short agreements — current versions
 
-Index updated: November 18, 2026 at 12:55:04 EST (America/New_York).
+Index updated: November 23, 2026 at 07:22:44 EST (America/New_York).
 
-These are the current working drafts. Each institution signs through an authorized institutional representative. The mentor is the coordination contact and need not be the signer. Version numbers apply independently to each document; an unchanged agreement keeps its existing version.
+The Word and PDF links below are the current signature templates. Each institution signs through an authorized institutional representative. The mentor is the coordination contact and need not be the signer. Version numbers apply independently to each document; an unchanged agreement keeps its existing version.
 
 | Agreement | Current version and notes | Word | PDF |
 | --- | --- | --- | --- |
-| Institutional media and content | [v2](01-media-and-content/v2/VERSION.txt) | [Word](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.docx) | [PDF](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_CLEAN.pdf) |
-| Participation and funding | [v4](02-participation-and-funding/v4/VERSION.txt) | [Word](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx) | [PDF](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.pdf) |
-| Institutional safety and conduct | [v2](03-safety-and-risk/v2/VERSION.txt) | [Word](03-safety-and-risk/v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.docx) | [PDF](03-safety-and-risk/v2/03_Institutional_Safety_and_Conduct_Agreement_CLEAN.pdf) |
+| Institutional media and content | [v3](01-media-and-content/v3/VERSION.txt) | [Word](01-media-and-content/v3/01_Media_and_Content_License_and_Likeness_Release.docx) | [PDF](01-media-and-content/v3/01_Media_and_Content_License_and_Likeness_Release.pdf) |
+| Participation and funding | [v5](02-participation-and-funding/v5/VERSION.txt) | [Word](02-participation-and-funding/v5/02_Institutional_Participation_and_Funding_Agreement.docx) | [PDF](02-participation-and-funding/v5/02_Institutional_Participation_and_Funding_Agreement.pdf) |
+| Institutional safety and conduct | [v3](03-safety-and-risk/v3/VERSION.txt) | [Word](03-safety-and-risk/v3/03_Institutional_Safety_and_Conduct_Agreement.docx) | [PDF](03-safety-and-risk/v3/03_Institutional_Safety_and_Conduct_Agreement.pdf) |
 
-Current media review copies: [Word redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx) and [PDF redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf), comparing v2 against v1.
+Archived media review copies: [Word redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx) and [PDF redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf), comparing v2 against v1.
 
-Current participation review copies: [Word redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx) and [PDF redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf). Both compare the current v4 draft against v3.
+Archived participation review copies: [Word redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.docx) and [PDF redline](02-participation-and-funding/v4/02_Institutional_Participation_and_Funding_Agreement_REDLINE.pdf). Both compare the v4 draft against v3.
 
-Current safety review copies: [Word redline](03-safety-and-risk/v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx) and [PDF redline](03-safety-and-risk/v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.pdf), comparing v2 against v1.
+Archived safety review copies: [Word redline](03-safety-and-risk/v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.docx) and [PDF redline](03-safety-and-risk/v2/03_Institutional_Safety_and_Conduct_Agreement_REDLINE.pdf), comparing v2 against v1.
 
 ## Supporting notice
 
@@ -26,11 +26,11 @@ One Privacy Notice covers relevant activities across the three agreements. It is
 
 ## Version history
 
-- Media and content: v1 and v2. Current v2 is one institutional agreement signed by an authorized institutional representative; the mentor remains the coordination contact; it has no individual consent checkboxes. Credit details are coordinated through the mentor by email without amending the agreement. Document 1 links to https://www.robotfashion.com/privacy-notice. Document 2 v4 references this agreement.
-- Participation and funding: v1, v2, v3 and v4. Current v4 requires one of two attendance choices: attending in person or participating by shipment. Garment scope is confirmed by email without a separate design-summary reference placeholder. Each revised version includes a redline against its preceding version.
-- Safety and conduct: v1 and v2. Current v2 is an institutional agreement signed once by an authorized institutional representative; the mentor remains the coordination contact. Institution manages team safety briefings, supervision and compliance; individual signatures and releases are not required. Document 2 v4 references this institutional safety agreement.
+- Media and content progressed from v1 to v2 for review and v3 for signature.
+- Participation and funding progressed through v1–v4 for review and v5 for signature. Section 6 of v5 references the v3 media and safety agreements.
+- Safety and conduct progressed from v1 to v2 for review and v3 for signature.
 
-Current clean agreements use separate labeled blanks for institution and contact information, signer details and dates. Document 2 retains two attendance choices and marks Organizer-completed and mutually agreed fields. Bracketed drafting placeholders have been removed; the Privacy Notice is unchanged.
+Current signature agreements use separate labeled blanks for institution and contact information, signer details and dates. Document 2 retains two attendance choices and marks Organizer-completed and mutually agreed fields. Bracketed drafting placeholders have been removed; the Privacy Notice is unchanged.
 
 Each version folder contains the Word/PDF files and a VERSION.txt date/time record. The original v1 package timestamp and notes have been preserved for all three agreements.
 

@@ -1,5 +1,5 @@
 {
-  "current_version": "v4",
+  "current_version": "v5",
   "versions": [
     {
       "version": "v2",
@@ -170,6 +170,42 @@
         "Expected travelers, arrival date and travel contact if attending",
         "Governing law and courts/venue (mutual agreement)"
       ]
+    },
+    {
+      "version": "v5",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T07:22:44.168415-05:00",
+      "baseline": "v4/02_Institutional_Participation_and_Funding_Agreement_CLEAN.docx",
+      "baseline_sha256": "d739b900f3c821331eeaf8f6d356f61252af43b3406d7c13f1c75142556dacc1",
+      "latest_revision": "Removed the draft review header and the internal CLEAN footer label. Updated the footer version on every page. Section 6 now refers to the v3 media and safety agreements.",
+      "status": "Signature template",
+      "pages": 5,
+      "remaining_completion_fields": [
+        "Institution legal name",
+        "Institution country",
+        "Team mentor name",
+        "Mentor email",
+        "Institutional signer full name",
+        "Institutional signer title/position",
+        "Signatures and dates",
+        "Institution mailing address",
+        "Formal-notices contact name/email",
+        "Event venue (Organizer)",
+        "Attendance selection",
+        "Institution category",
+        "Expected travelers, arrival date and travel contact if attending",
+        "Governing law and courts/venue (mutual agreement)"
+      ],
+      "deliverables": {
+        "v5/02_Institutional_Participation_and_Funding_Agreement.docx": {
+          "sha256": "279f11a51c0c46a3812f9a57c0e3dffbabd0618fe9c1090d459a16674352d8c0",
+          "bytes": 34203
+        },
+        "v5/02_Institutional_Participation_and_Funding_Agreement.pdf": {
+          "sha256": "6d440a436e47df3ede11efe41d8b3505aef3f0f2c8cf3c554a363bb1eb259968",
+          "bytes": 86906
+        }
+      }
     }
   ],
   "directory_layout": "Each document has its own directory and independent version folders. Paths in this metadata file are relative to 02-participation-and-funding."
