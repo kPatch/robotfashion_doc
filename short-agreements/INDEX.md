@@ -1,13 +1,13 @@
 # Short agreements — current versions
 
-Index updated: November 23, 2026 at 07:22:44 EST (America/New_York).
+Index updated: November 23, 2026 at 07:52:32 EST (America/New_York).
 
 The Word and PDF links below are the current signature templates. Each institution signs through an authorized institutional representative. The mentor is the coordination contact and need not be the signer. Version numbers apply independently to each document; an unchanged agreement keeps its existing version.
 
 | Agreement | Current version and notes | Word | PDF |
 | --- | --- | --- | --- |
 | Institutional media and content | [v3](01-media-and-content/v3/VERSION.txt) | [Word](01-media-and-content/v3/01_Media_and_Content_License_and_Likeness_Release.docx) | [PDF](01-media-and-content/v3/01_Media_and_Content_License_and_Likeness_Release.pdf) |
-| Participation and funding | [v5](02-participation-and-funding/v5/VERSION.txt) | [Word](02-participation-and-funding/v5/02_Institutional_Participation_and_Funding_Agreement.docx) | [PDF](02-participation-and-funding/v5/02_Institutional_Participation_and_Funding_Agreement.pdf) |
+| Participation and funding | [v6](02-participation-and-funding/v6/VERSION.txt) | [Word](02-participation-and-funding/v6/02_Institutional_Participation_and_Funding_Agreement.docx) | [PDF](02-participation-and-funding/v6/02_Institutional_Participation_and_Funding_Agreement.pdf) |
 | Institutional safety and conduct | [v3](03-safety-and-risk/v3/VERSION.txt) | [Word](03-safety-and-risk/v3/03_Institutional_Safety_and_Conduct_Agreement.docx) | [PDF](03-safety-and-risk/v3/03_Institutional_Safety_and_Conduct_Agreement.pdf) |
 
 Archived media review copies: [Word redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.docx) and [PDF redline](01-media-and-content/v2/01_Media_and_Content_License_and_Likeness_Release_REDLINE.pdf), comparing v2 against v1.
@@ -27,10 +27,10 @@ One Privacy Notice covers relevant activities across the three agreements. It is
 ## Version history
 
 - Media and content progressed from v1 to v2 for review and v3 for signature.
-- Participation and funding progressed through v1–v4 for review and v5 for signature. Section 6 of v5 references the v3 media and safety agreements.
+- Participation and funding progressed through v1–v4 for review and v5–v6 for signature. Section 6 of v6 references the v3 media and safety agreements.
 - Safety and conduct progressed from v1 to v2 for review and v3 for signature.
 
-Current signature agreements use separate labeled blanks for institution and contact information, signer details and dates. Document 2 retains two attendance choices and marks Organizer-completed and mutually agreed fields. Bracketed drafting placeholders have been removed; the Privacy Notice is unchanged.
+Current signature agreements use separate labeled blanks for institution and contact information, signer details and dates. Document 2 retains two attendance choices and provides fields for the institution and for mutually agreed terms. Bracketed drafting placeholders have been removed; the Privacy Notice is unchanged.
 
 Each version folder contains the Word/PDF files and a VERSION.txt date/time record. The original v1 package timestamp and notes have been preserved for all three agreements.
 

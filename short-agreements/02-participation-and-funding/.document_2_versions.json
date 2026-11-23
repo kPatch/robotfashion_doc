@@ -1,5 +1,5 @@
 {
-  "current_version": "v5",
+  "current_version": "v6",
   "versions": [
     {
       "version": "v2",
@@ -204,6 +204,41 @@
         "v5/02_Institutional_Participation_and_Funding_Agreement.pdf": {
           "sha256": "6d440a436e47df3ede11efe41d8b3505aef3f0f2c8cf3c554a363bb1eb259968",
           "bytes": 86906
+        }
+      }
+    },
+    {
+      "version": "v6",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T07:52:32.161983-05:00",
+      "baseline": "v5/02_Institutional_Participation_and_Funding_Agreement.docx",
+      "baseline_sha256": "279f11a51c0c46a3812f9a57c0e3dffbabd0618fe9c1090d459a16674352d8c0",
+      "latest_revision": "Removed the event venue completion line. Section 4 provides that Organizer will send arrival and rehearsal instructions to the team mentor before travel.",
+      "status": "Signature template",
+      "pages": 5,
+      "remaining_completion_fields": [
+        "Institution legal name",
+        "Institution country",
+        "Team mentor name",
+        "Mentor email",
+        "Institutional signer full name",
+        "Institutional signer title/position",
+        "Signatures and dates",
+        "Institution mailing address",
+        "Formal-notices contact name/email",
+        "Attendance selection",
+        "Institution category",
+        "Expected travelers, arrival date and travel contact if attending",
+        "Governing law and courts/venue (mutual agreement)"
+      ],
+      "deliverables": {
+        "v6/02_Institutional_Participation_and_Funding_Agreement.docx": {
+          "sha256": "5f36c85844877981f92fba3173bf50f0c9985774deaa7defb3876cb391a7c01f",
+          "bytes": 34199
+        },
+        "v6/02_Institutional_Participation_and_Funding_Agreement.pdf": {
+          "sha256": "f7da29ba9c8b9edfa6956f747ffe6d9dfc722318711e5d14ab7036d4debc42ef",
+          "bytes": 86925
         }
       }
     }
